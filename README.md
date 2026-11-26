@@ -25,7 +25,7 @@ FYP/
 │
 ├── Preprocessing/                       # Data Extraction & Feature Engineering
 │   ├── pneumoniaLab.ipynb               # Stage 2: MIMIC-IV DuckDB lab extraction (WBC, Neutrophils, Lymphocytes, CRP)
-│   ├── pneumonia_dataset_with_labs.csv  # Final preprocessed training cohort (7,647 patients × 48 features)
+│   ├── (MIMIC-derived CSVs)             # Not in this repo; rebuilt locally by the notebooks (see Preprocessing/README.md)
 │   ├── IOT Pneumonia/                   # Stage 1: Cohort selection & vital sign aggregation
 │   │   └── FYPpneumonia.ipynb           # Vital trajectory extraction notebook
 │   └── README.md                        # Documentation of the extraction pipeline

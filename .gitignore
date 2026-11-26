@@ -45,3 +45,8 @@ vitals_raw.csv
 vitals_progress.csv
 *.so
 *.dylib
+
+# MIMIC-derived patient-level data (MIMIC-IV data use agreement: never commit)
+Preprocessing/**/*.csv
+pneumonia-assistant-main/pneumonia-assistant/data/
+pneumonia-assistant-main/pneumonia-assistant/models/*_scores.csv

@@ -4,6 +4,17 @@ This directory contains the complete end-to-end data extraction, preprocessing, 
 
 ---
 
+## Data Not Included
+
+The MIMIC-IV data use agreement does not allow MIMIC-derived records to be shared, so the CSV files
+named below (`patient_list.csv`, `patient_features.csv`, `merged_with_symptoms*.csv`,
+`pneumonia_dataset_final.csv`, `pneumonia_dataset_with_labs*.csv`) are not stored in this repository.
+They are rebuilt by running the two notebooks against a local copy of MIMIC-IV, and the
+`.gitignore` keeps them out of future commits. The trained model files in
+`pneumonia-assistant-main/pneumonia-assistant/models/` are included.
+
+---
+
 ## Pipeline Overview
 
 ```
