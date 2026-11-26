@@ -1,0 +1,8 @@
+experiment_name,observation_window,respiratory_distress_treatment,threshold,roc_auc,brier_score,TP,TN,FP,FN,sensitivity,specificity,precision,npv,balanced_accuracy,f1_score
+1. Primary Validation (Original Frozen Baseline),Entire ICU Stay (mean 108h),Saturated Vital Surrogate (95.7%),0.53,0.7273,0.2779,217,41,189,13,0.9435,0.1783,0.5345,0.7593,0.5609,0.6824
+2. Entire Stay + Distress = NaN,Entire ICU Stay (mean 108h),"NaN (Imputed: LR=1.0, CB=0.0)",0.53,0.7273,0.2318,202,107,123,28,0.8783,0.4652,0.6215,0.7926,0.6717,0.7279
+3. Entire Stay + Distress = Diagnosis Only,Entire ICU Stay (mean 108h),Clinical EHR Diagnosis String (32.0%),0.53,0.7712,0.2032,178,144,86,52,0.7739,0.6261,0.6742,0.7347,0.7,0.7206
+4. First 24h Window + 24h Surrogate Rule,"First 24 Hours (t in [0, 24h])",24h Vital Surrogate Heuristic (79.3%),0.53,0.7255,0.2434,205,85,145,25,0.8913,0.3696,0.5857,0.7727,0.6304,0.7069
+5. First 24h Window + Distress = NaN,"First 24 Hours (t in [0, 24h])","NaN (Imputed: LR=1.0, CB=0.0)",0.53,0.729,0.216,171,135,95,59,0.7435,0.587,0.6429,0.6959,0.6652,0.6895
+6. First 24h Window + Distress = 0.0,"First 24 Hours (t in [0, 24h])",Hardcoded 0.0 (Uncharted = Absent),0.53,0.7304,0.2153,116,186,44,114,0.5043,0.8087,0.725,0.62,0.6565,0.5949
+7. First 24h Window + Distress = Diagnosis Only,"First 24 Hours (t in [0, 24h])",Clinical EHR Diagnosis String (32.0%),0.53,0.7809,0.1906,162,171,59,68,0.7043,0.7435,0.733,0.7155,0.7239,0.7184

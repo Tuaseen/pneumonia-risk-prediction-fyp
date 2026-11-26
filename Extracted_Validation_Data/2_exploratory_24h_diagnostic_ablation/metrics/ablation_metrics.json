@@ -1,0 +1,28 @@
+{
+  "experiment_name": "Exploratory 24-Hour Diagnostic Ablation",
+  "model_name": "Stage 2 v2 VotingClassifier (LogisticRegression + CatBoost)",
+  "model_path": "/home/tuaseen/Downloads/pneumonia-assistant-main/pneumonia-assistant/models/stage2_v2.joblib",
+  "dataset": "eICU Collaborative Research Database Demo v2.0.1",
+  "total_samples": 460,
+  "pneumonia_cases": 230,
+  "control_cases": 230,
+  "observation_window": "First 24 Hours of ICU Admission (t in [0, 24h])",
+  "respiratory_distress_treatment": "NaN (Native model imputation: LR=1.0, CB=0.0; NO diagnosis string used)",
+  "decision_threshold": 0.53,
+  "roc_auc": 0.7322,
+  "pr_auc": 0.7136,
+  "brier_score": 0.2146,
+  "sensitivity": 0.7478,
+  "specificity": 0.6217,
+  "balanced_accuracy": 0.6848,
+  "precision": 0.6641,
+  "npv": 0.7114,
+  "f1_score": 0.7035,
+  "accuracy": 0.6848,
+  "confusion_matrix": {
+    "true_positives": 172,
+    "true_negatives": 143,
+    "false_positives": 87,
+    "false_negatives": 58
+  }
+}

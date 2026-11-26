@@ -1,0 +1,44 @@
+feature_name,category,expected_units,mimic_source,eicu_source,extraction_methodology_and_divergence,semantic_compatibility_rating,role_in_driving_low_specificity
+heart_rate_mean,Vital Signs (HR),bpm,chartevents,vitalPeriodic,Exact (continuous vs periodic telemetry),Compatible,Secondary contributor (tachycardia in sepsis/shock)
+heart_rate_min,Vital Signs (HR),bpm,chartevents,vitalPeriodic,Exact,Compatible,Low impact
+heart_rate_max,Vital Signs (HR),bpm,chartevents,vitalPeriodic,Exact (sampling density increases extreme max in longer stays),Minor divergence,Moderate contributor (max HR 118 in FP vs 100 in TN)
+heart_rate_std,Vital Signs (HR),bpm,chartevents,vitalPeriodic,Exact,Compatible,Low impact
+respiratory_rate_mean,Vital Signs (RR),breaths/min,chartevents,vitalPeriodic,Exact,Compatible,Major contributor (mean RR 19.9 in FP vs 16.7 in TN)
+respiratory_rate_min,Vital Signs (RR),breaths/min,chartevents,vitalPeriodic,Exact,Compatible,Low impact
+respiratory_rate_max,Vital Signs (RR),breaths/min,chartevents,vitalPeriodic,Exact (continuous 5-min charting catches transient tachypnea),Minor divergence,Major contributor (max RR 36.3 in FP vs 26.5 in TN)
+respiratory_rate_std,Vital Signs (RR),breaths/min,chartevents,vitalPeriodic,Exact,Compatible,Low impact
+sbp_mean,Vital Signs (SBP),mmHg,chartevents,vitalAperiodic + vitalPeriodic,Exact (invasive + non-invasive pooled),Compatible,Low impact
+sbp_min,Vital Signs (SBP),mmHg,chartevents,vitalAperiodic + vitalPeriodic,Exact (hypotension in sepsis/shock),Minor divergence,Major contributor (min SBP 81.5 in FP vs 99.8 in TN)
+sbp_max,Vital Signs (SBP),mmHg,chartevents,vitalAperiodic + vitalPeriodic,Exact,Compatible,Low impact
+sbp_std,Vital Signs (SBP),mmHg,chartevents,vitalAperiodic + vitalPeriodic,Exact,Compatible,Low impact
+spo2_mean,Vital Signs (SpO2),%,chartevents,vitalPeriodic,Exact (mean SpO2 96.3% in FP vs 96.9% in TN),Compatible,Low impact
+spo2_min,Vital Signs (SpO2),%,chartevents,vitalPeriodic,Discrepant (5-min telemetry catches sensor drops; 27.4% < MIMIC min),Major discrepancy,"Critical driver (min SpO2 80.7% in FP vs 91.4% in TN, SMD=-1.00)"
+spo2_std,Vital Signs (SpO2),%,chartevents,vitalPeriodic,Exact,Compatible,Low impact
+temperature_mean,Vital Signs (Temp),deg F,chartevents (°F),nurseCharting + vitalPeriodic (°C -> °F),Converted correctly via affine T_F = T_C * 9/5 + 32,Compatible,Low impact
+temperature_min,Vital Signs (Temp),deg F,chartevents (°F),nurseCharting + vitalPeriodic (°C -> °F),Converted correctly,Compatible,Low impact
+temperature_max,Vital Signs (Temp),deg F,chartevents (°F),nurseCharting + vitalPeriodic (°C -> °F),Converted correctly,Compatible,Moderate contributor (max temp 99.6 in FP vs 98.5 in TN)
+temperature_std,Vital Signs (Temp),deg F,chartevents (°F),nurseCharting + vitalPeriodic (°C -> °F),Converted correctly (std scaled by 9/5),Compatible,Low impact
+shock_index,Engineered Index,ratio (HR_max/SBP_min),features_v2.py,features_v2.py,Identical logic; driven higher by low SBP and high HR in ICU shock,Compatible,Major contributor (shock index 1.65 in FP vs 1.09 in TN)
+news_vitals,Engineered Score,integer points (0-15),features_v2.py,features_v2.py,Identical logic; strongly elevated in acute ICU controls,Compatible,"Critical driver (NEWS 10.35 in FP vs 6.44 in TN, SMD=+1.90)"
+fever_measured,Engineered Flag,binary (0/1),features_v2.py,features_v2.py,Identical logic (T_max >= 100.4 F),Compatible,Moderate contributor (fever in 25.4% of FP vs 4.9% in TN)
+spo2_drop,Engineered Drop,% (mean - min),features_v2.py,features_v2.py,Identical logic; heavily inflated by low SpO2_min from continuous telemetry,Major discrepancy,"Critical driver (drop 15.6% in FP vs 5.5% in TN, SMD=+0.97)"
+heart_rate_range,Engineered Range,bpm (max - min),features_v2.py,features_v2.py,Identical logic; wider in longer ICU stays,Minor divergence,Moderate contributor
+respiratory_rate_range,Engineered Range,breaths/min,features_v2.py,features_v2.py,Identical logic,Minor divergence,Major contributor (range 26.7 in FP vs 15.9 in TN)
+sbp_range,Engineered Range,mmHg,features_v2.py,features_v2.py,Identical logic,Minor divergence,Moderate contributor (range 91.5 in FP vs 69.4 in TN)
+temperature_range,Engineered Range,deg F,features_v2.py,features_v2.py,Identical logic,Compatible,Moderate contributor
+respiratory_distress,Clinical Flag,binary (0/1),Explicit clinical intake flag in MIMIC-IV,Surrogate rule: (rr_max >= 24) | (spo2_min < 90) | (diag string),INCOMPATIBLE: Saturated to 100% in FP controls (216/230 in controls),Saturated / Incompatible,PRIMARY DRIVER: Saturated in 189/189 FP controls; dominant model weight
+hypoxemia,Clinical Flag,binary (0/1),(spo2_min < 90) | flag,(spo2_min < 90),Surrogate rule triggered by pulseox drops,Minor divergence,Critical driver (hypoxemia in 74.6% of FP vs 9.8% in TN)
+weakness,Clinical Flag,binary (0/1),Patient-reported symptom,Not charted in eICU; arbitrarily hardcoded to 0,Unrecorded / Zeroed,Missingness discrepancy,Neutral (set to 0 for all patients)
+age,Demographics,years,admissions/patients,patient.csv (>89 mapped to 90.0),Exact,Compatible,Low impact (mean age 62.4 in FP vs 63.2 in TN)
+gender_male,Demographics,binary (0/1),patients,"patient.csv (Male=1, Female=0)",Exact,Compatible,Low impact (male 65.1% in FP vs 65.9% in TN)
+copd,Chronic Comorbidity,binary (0/1),ICD-9/10 admission codes,diagnosis.csv + pastHistory.csv keyword matching,Comparable string mapping,Compatible,Minor contributor (COPD in 19.0% of FP vs 7.3% in TN)
+asthma,Chronic Comorbidity,binary (0/1),ICD-9/10 admission codes,diagnosis.csv + pastHistory.csv keyword matching,Comparable string mapping,Compatible,Low impact (asthma in 7.9% of FP vs 2.4% in TN)
+diabetes,Chronic Comorbidity,binary (0/1),ICD-9/10 admission codes,diagnosis.csv + pastHistory.csv keyword matching,Comparable string mapping,Compatible,Neutral (diabetes in 34.4% of FP vs 36.6% in TN)
+hypertension,Chronic Comorbidity,binary (0/1),ICD-9/10 admission codes,diagnosis.csv + pastHistory.csv keyword matching,Comparable string mapping,Compatible,Neutral (hypertension in 54.0% of FP vs 53.7% in TN)
+heart_failure,Chronic Comorbidity,binary (0/1),ICD-9/10 admission codes,diagnosis.csv + pastHistory.csv keyword matching,Comparable string mapping,Compatible,Minor contributor (HF in 18.5% of FP vs 14.6% in TN)
+renal,Chronic Comorbidity,binary (0/1),ICD-9/10 admission codes,diagnosis.csv + pastHistory.csv keyword matching,Comparable string mapping,Compatible,Moderate contributor (renal in 27.5% of FP vs 12.2% in TN)
+wbc,Laboratory,K/uL,labevents,lab.csv (WBC x 1000),Exact units; stay-level average vs admission,Compatible,Moderate contributor (WBC 11.0 in FP vs 9.4 in TN)
+neutrophils,Laboratory,%,labevents,lab.csv (-polys),Exact units; stay-level average vs admission,Compatible,Moderate contributor (neutrophils 75.3% in FP vs 71.3% in TN)
+lymphocytes,Laboratory,%,labevents,lab.csv (-lymphs),Exact units; stay-level average vs admission,Compatible,Moderate contributor (lymphocytes 13.5% in FP vs 16.5% in TN)
+nlr,Laboratory,ratio (neut/lymph),features_v2.py,features_v2.py,Derived ratio; elevated in severe inflammation/sepsis,Compatible,Moderate contributor (NLR 8.8 in FP vs 6.1 in TN)
+crp,Laboratory,mg/L vs mg/dL,labevents (mg/L),"lab.csv (mg/dL for standard, mg/L for CRP-hs)",INCOMPATIBLE: Unit mismatch (x10 factor) + 94.3% missing; imputed as median 6.0,Major discrepancy,Secondary contributor (imputed as median 6.0 for 94% of cohort)

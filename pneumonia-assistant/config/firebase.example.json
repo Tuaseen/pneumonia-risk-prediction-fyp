@@ -1,0 +1,9 @@
+{
+  "USE_FIREBASE": "true",
+  "FIREBASE_API_KEY": "your-firebase-client-api-key",
+  "FIREBASE_APP_ID": "your-android-firebase-app-id",
+  "FIREBASE_SENDER_ID": "your-messaging-sender-id",
+  "FIREBASE_PROJECT_ID": "your-project-id",
+  "FIREBASE_AUTH_DOMAIN": "your-project-id.firebaseapp.com",
+  "FIREBASE_STORAGE_BUCKET": "your-project-id.firebasestorage.app"
+}

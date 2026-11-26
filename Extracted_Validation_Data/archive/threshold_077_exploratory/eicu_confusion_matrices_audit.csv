@@ -1,0 +1,11 @@
+model,threshold,TP,TN,FP,FN,sensitivity,specificity,precision,npv,f1_score,balanced_accuracy,accuracy,notes
+Stage 1 (Vitals Screening),0.26,225,12,218,5,0.9783,0.0522,0.5079,0.7059,0.6686,0.5152,0.5152,Primary Frozen Threshold (MIMIC-IV default)
+Stage 1 (Vitals Screening),0.85,105,178,52,125,0.4565,0.7739,0.6688,0.5875,0.5426,0.6152,0.6152,Exploratory Post-Hoc Youden Index on eICU
+Stage 2 (Original 15-Feat),0.5,220,34,196,10,0.9565,0.1478,0.5288,0.7727,0.6811,0.5522,0.5522,Primary Frozen Threshold (MIMIC-IV default)
+Stage 2 (Original 15-Feat),0.78,170,140,90,60,0.7391,0.6087,0.6538,0.7,0.6939,0.6739,0.6739,Exploratory Post-Hoc Youden Index on eICU
+Stage 2 v2 (43-Feat Ensemble),0.53,217,41,189,13,0.9435,0.1783,0.5345,0.7593,0.6824,0.5609,0.5609,Primary Frozen Threshold (stage2_v2.joblib equal-cost)
+Stage 2 v2 (43-Feat Ensemble),0.54,216,43,187,14,0.9391,0.187,0.536,0.7544,0.6825,0.563,0.563,Reported in stage2_v2_metrics.json (MIMIC-IV test threshold)
+Stage 2 v2 (43-Feat Ensemble),0.77,172,147,83,58,0.7478,0.6391,0.6745,0.7171,0.7093,0.6935,0.6935,Exploratory Post-Hoc Youden Index on eICU
+Two-Stage Cascade (Standard),0.26 -> 0.53,217,41,189,13,0.9435,0.1783,0.5345,0.7593,0.6824,0.5609,0.5609,High Risk = Positive; Moderate & Low = Negative (Default app triage)
+Two-Stage Cascade (Screening),0.26 -> 0.53,225,12,218,5,0.9783,0.0522,0.5079,0.7059,0.6686,0.5152,0.5152,High & Moderate = Positive; Low = Negative (Sensitivity-first triage)
+Two-Stage Cascade (Exploratory Calibrated),0.85 -> 0.77,97,193,37,133,0.4217,0.8391,0.7239,0.592,0.533,0.6304,0.6304,Post-hoc dual calibrated thresholds

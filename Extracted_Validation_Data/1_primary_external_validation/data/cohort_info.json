@@ -1,0 +1,4602 @@
+{
+  "002-10052": {
+    "stay_id": 151900,
+    "hr_count": 691,
+    "spo2_count": 688,
+    "rr_count": 472,
+    "sbp_count": 169,
+    "temp_count": 44,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-10308": {
+    "stay_id": 236265,
+    "hr_count": 2957,
+    "spo2_count": 2952,
+    "rr_count": 2,
+    "sbp_count": 2406,
+    "temp_count": 3542,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-10845": {
+    "stay_id": 187150,
+    "hr_count": 1562,
+    "spo2_count": 1562,
+    "rr_count": 1553,
+    "sbp_count": 336,
+    "temp_count": 104,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-10922": {
+    "stay_id": 162841,
+    "hr_count": 680,
+    "spo2_count": 326,
+    "rr_count": 72,
+    "sbp_count": 161,
+    "temp_count": 66,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-10949": {
+    "stay_id": 186393,
+    "hr_count": 1097,
+    "spo2_count": 1050,
+    "rr_count": 768,
+    "sbp_count": 304,
+    "temp_count": 130,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-11027": {
+    "stay_id": 156308,
+    "hr_count": 673,
+    "spo2_count": 663,
+    "rr_count": 673,
+    "sbp_count": 49,
+    "temp_count": 28,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-11312": {
+    "stay_id": 222408,
+    "hr_count": 828,
+    "spo2_count": 708,
+    "rr_count": 798,
+    "sbp_count": 85,
+    "temp_count": 28,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-12027": {
+    "stay_id": 202294,
+    "hr_count": 918,
+    "spo2_count": 979,
+    "rr_count": 829,
+    "sbp_count": 401,
+    "temp_count": 44,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-13233": {
+    "stay_id": 237983,
+    "hr_count": 1046,
+    "spo2_count": 968,
+    "rr_count": 695,
+    "sbp_count": 736,
+    "temp_count": 66,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-1": {
+    "stay_id": 302226,
+    "hr_count": 1115,
+    "spo2_count": 1105,
+    "rr_count": 1115,
+    "sbp_count": 190,
+    "temp_count": 42,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-10109": {
+    "stay_id": 246997,
+    "hr_count": 737,
+    "spo2_count": 729,
+    "rr_count": 737,
+    "sbp_count": 798,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-10267": {
+    "stay_id": 308316,
+    "hr_count": 265,
+    "spo2_count": 265,
+    "rr_count": 265,
+    "sbp_count": 62,
+    "temp_count": 8,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-10348": {
+    "stay_id": 280350,
+    "hr_count": 244,
+    "spo2_count": 248,
+    "rr_count": 244,
+    "sbp_count": 43,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-1035": {
+    "stay_id": 268932,
+    "hr_count": 190,
+    "spo2_count": 190,
+    "rr_count": 189,
+    "sbp_count": 69,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-10535": {
+    "stay_id": 264276,
+    "hr_count": 3320,
+    "spo2_count": 3305,
+    "rr_count": 3320,
+    "sbp_count": 2753,
+    "temp_count": 112,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-12237": {
+    "stay_id": 260647,
+    "hr_count": 282,
+    "spo2_count": 278,
+    "rr_count": 282,
+    "sbp_count": 39,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-12469": {
+    "stay_id": 260860,
+    "hr_count": 498,
+    "spo2_count": 27,
+    "rr_count": 470,
+    "sbp_count": 30,
+    "temp_count": 24,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-13187": {
+    "stay_id": 281132,
+    "hr_count": 520,
+    "spo2_count": 24,
+    "rr_count": 517,
+    "sbp_count": 45,
+    "temp_count": 22,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-16257": {
+    "stay_id": 301185,
+    "hr_count": 274,
+    "spo2_count": 276,
+    "rr_count": 274,
+    "sbp_count": 122,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-1810": {
+    "stay_id": 304256,
+    "hr_count": 520,
+    "spo2_count": 500,
+    "rr_count": 511,
+    "sbp_count": 173,
+    "temp_count": 60,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "003-19375": {
+    "stay_id": 295916,
+    "hr_count": 520,
+    "spo2_count": 520,
+    "rr_count": 520,
+    "sbp_count": 43,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-10029": {
+    "stay_id": 418417,
+    "hr_count": 969,
+    "spo2_count": 968,
+    "rr_count": 939,
+    "sbp_count": 372,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-10063": {
+    "stay_id": 384028,
+    "hr_count": 2792,
+    "spo2_count": 2795,
+    "rr_count": 2793,
+    "sbp_count": 624,
+    "temp_count": 2273,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-10208": {
+    "stay_id": 325924,
+    "hr_count": 1102,
+    "spo2_count": 1050,
+    "rr_count": 1089,
+    "sbp_count": 497,
+    "temp_count": 50,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-10383": {
+    "stay_id": 341322,
+    "hr_count": 307,
+    "spo2_count": 440,
+    "rr_count": 181,
+    "sbp_count": 22,
+    "temp_count": 24,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-10548": {
+    "stay_id": 329635,
+    "hr_count": 1368,
+    "spo2_count": 1371,
+    "rr_count": 1355,
+    "sbp_count": 299,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-10577": {
+    "stay_id": 395649,
+    "hr_count": 147,
+    "spo2_count": 153,
+    "rr_count": 146,
+    "sbp_count": 51,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-11006": {
+    "stay_id": 380558,
+    "hr_count": 360,
+    "spo2_count": 360,
+    "rr_count": 360,
+    "sbp_count": 29,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-14043": {
+    "stay_id": 370128,
+    "hr_count": 601,
+    "spo2_count": 608,
+    "rr_count": 574,
+    "sbp_count": 101,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "004-19992": {
+    "stay_id": 416103,
+    "hr_count": 661,
+    "spo2_count": 365,
+    "rr_count": 661,
+    "sbp_count": 61,
+    "temp_count": 106,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10003": {
+    "stay_id": 426976,
+    "hr_count": 2210,
+    "spo2_count": 2202,
+    "rr_count": 2210,
+    "sbp_count": 508,
+    "temp_count": 90,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10033": {
+    "stay_id": 436993,
+    "hr_count": 810,
+    "spo2_count": 430,
+    "rr_count": 810,
+    "sbp_count": 495,
+    "temp_count": 44,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10067": {
+    "stay_id": 498515,
+    "hr_count": 232,
+    "spo2_count": 232,
+    "rr_count": 232,
+    "sbp_count": 78,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10106": {
+    "stay_id": 490809,
+    "hr_count": 927,
+    "spo2_count": 875,
+    "rr_count": 926,
+    "sbp_count": 278,
+    "temp_count": 38,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10324": {
+    "stay_id": 443664,
+    "hr_count": 561,
+    "spo2_count": 561,
+    "rr_count": 549,
+    "sbp_count": 45,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10383": {
+    "stay_id": 503222,
+    "hr_count": 145,
+    "spo2_count": 118,
+    "rr_count": 145,
+    "sbp_count": 23,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10425": {
+    "stay_id": 486824,
+    "hr_count": 152,
+    "spo2_count": 131,
+    "rr_count": 152,
+    "sbp_count": 23,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10504": {
+    "stay_id": 472969,
+    "hr_count": 638,
+    "spo2_count": 636,
+    "rr_count": 628,
+    "sbp_count": 80,
+    "temp_count": 22,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "005-10903": {
+    "stay_id": 454584,
+    "hr_count": 1812,
+    "spo2_count": 1746,
+    "rr_count": 1813,
+    "sbp_count": 179,
+    "temp_count": 1811,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-100030": {
+    "stay_id": 939222,
+    "hr_count": 560,
+    "spo2_count": 547,
+    "rr_count": 560,
+    "sbp_count": 463,
+    "temp_count": 24,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-100127": {
+    "stay_id": 752867,
+    "hr_count": 580,
+    "spo2_count": 501,
+    "rr_count": 470,
+    "sbp_count": 76,
+    "temp_count": 22,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-100222": {
+    "stay_id": 618867,
+    "hr_count": 1213,
+    "spo2_count": 1206,
+    "rr_count": 1208,
+    "sbp_count": 973,
+    "temp_count": 38,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-100338": {
+    "stay_id": 758325,
+    "hr_count": 2344,
+    "spo2_count": 2341,
+    "rr_count": 2344,
+    "sbp_count": 2473,
+    "temp_count": 96,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-100497": {
+    "stay_id": 860386,
+    "hr_count": 228,
+    "spo2_count": 228,
+    "rr_count": 65,
+    "sbp_count": 20,
+    "temp_count": 14,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-101038": {
+    "stay_id": 692382,
+    "hr_count": 901,
+    "spo2_count": 831,
+    "rr_count": 886,
+    "sbp_count": 145,
+    "temp_count": 38,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-101400": {
+    "stay_id": 650415,
+    "hr_count": 2252,
+    "spo2_count": 2207,
+    "rr_count": 2246,
+    "sbp_count": 208,
+    "temp_count": 106,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-102131": {
+    "stay_id": 675037,
+    "hr_count": 544,
+    "spo2_count": 542,
+    "rr_count": 544,
+    "sbp_count": 57,
+    "temp_count": 24,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-102774": {
+    "stay_id": 741996,
+    "hr_count": 4816,
+    "spo2_count": 3848,
+    "rr_count": 4381,
+    "sbp_count": 4559,
+    "temp_count": 194,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-103364": {
+    "stay_id": 958720,
+    "hr_count": 2623,
+    "spo2_count": 1913,
+    "rr_count": 2616,
+    "sbp_count": 2500,
+    "temp_count": 70,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-106334": {
+    "stay_id": 691814,
+    "hr_count": 494,
+    "spo2_count": 440,
+    "rr_count": 493,
+    "sbp_count": 44,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-106828": {
+    "stay_id": 755774,
+    "hr_count": 570,
+    "spo2_count": 565,
+    "rr_count": 567,
+    "sbp_count": 148,
+    "temp_count": 28,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-108606": {
+    "stay_id": 807440,
+    "hr_count": 587,
+    "spo2_count": 567,
+    "rr_count": 587,
+    "sbp_count": 60,
+    "temp_count": 24,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-111240": {
+    "stay_id": 785227,
+    "hr_count": 50,
+    "spo2_count": 50,
+    "rr_count": 50,
+    "sbp_count": 16,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "006-115302": {
+    "stay_id": 866114,
+    "hr_count": 511,
+    "spo2_count": 496,
+    "rr_count": 511,
+    "sbp_count": 60,
+    "temp_count": 16,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "007-10000": {
+    "stay_id": 968599,
+    "hr_count": 260,
+    "spo2_count": 260,
+    "rr_count": 260,
+    "sbp_count": 269,
+    "temp_count": 58,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "007-10042": {
+    "stay_id": 960567,
+    "hr_count": 248,
+    "spo2_count": 247,
+    "rr_count": 248,
+    "sbp_count": 50,
+    "temp_count": 18,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "007-10050": {
+    "stay_id": 976781,
+    "hr_count": 747,
+    "spo2_count": 746,
+    "rr_count": 747,
+    "sbp_count": 304,
+    "temp_count": 40,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "007-10152": {
+    "stay_id": 972802,
+    "hr_count": 166,
+    "spo2_count": 166,
+    "rr_count": 166,
+    "sbp_count": 38,
+    "temp_count": 50,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "007-10459": {
+    "stay_id": 963136,
+    "hr_count": 758,
+    "spo2_count": 758,
+    "rr_count": 758,
+    "sbp_count": 119,
+    "temp_count": 44,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "008-1009": {
+    "stay_id": 1036759,
+    "hr_count": 1366,
+    "spo2_count": 1315,
+    "rr_count": 1286,
+    "sbp_count": 914,
+    "temp_count": 58,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "008-10102": {
+    "stay_id": 1054428,
+    "hr_count": 4439,
+    "spo2_count": 3084,
+    "rr_count": 4422,
+    "sbp_count": 388,
+    "temp_count": 156,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "009-10228": {
+    "stay_id": 1059638,
+    "hr_count": 783,
+    "spo2_count": 784,
+    "rr_count": 782,
+    "sbp_count": 71,
+    "temp_count": 34,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10099": {
+    "stay_id": 1098722,
+    "hr_count": 2565,
+    "spo2_count": 2567,
+    "rr_count": 2563,
+    "sbp_count": 239,
+    "temp_count": 258,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10100": {
+    "stay_id": 1118668,
+    "hr_count": 2398,
+    "spo2_count": 2347,
+    "rr_count": 2397,
+    "sbp_count": 367,
+    "temp_count": 194,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10275": {
+    "stay_id": 1089400,
+    "hr_count": 748,
+    "spo2_count": 735,
+    "rr_count": 738,
+    "sbp_count": 59,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10339": {
+    "stay_id": 1129073,
+    "hr_count": 1356,
+    "spo2_count": 1301,
+    "rr_count": 1338,
+    "sbp_count": 199,
+    "temp_count": 34,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10450": {
+    "stay_id": 1096127,
+    "hr_count": 1326,
+    "spo2_count": 1155,
+    "rr_count": 1327,
+    "sbp_count": 215,
+    "temp_count": 90,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-1049": {
+    "stay_id": 1106309,
+    "hr_count": 2424,
+    "spo2_count": 2068,
+    "rr_count": 2447,
+    "sbp_count": 471,
+    "temp_count": 114,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10505": {
+    "stay_id": 1117947,
+    "hr_count": 5060,
+    "spo2_count": 5000,
+    "rr_count": 5085,
+    "sbp_count": 921,
+    "temp_count": 288,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10581": {
+    "stay_id": 1111686,
+    "hr_count": 822,
+    "spo2_count": 814,
+    "rr_count": 821,
+    "sbp_count": 137,
+    "temp_count": 60,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-10851": {
+    "stay_id": 1079891,
+    "hr_count": 802,
+    "spo2_count": 755,
+    "rr_count": 804,
+    "sbp_count": 83,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-11267": {
+    "stay_id": 1087596,
+    "hr_count": 1895,
+    "spo2_count": 1846,
+    "rr_count": 1861,
+    "sbp_count": 151,
+    "temp_count": 64,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "010-12802": {
+    "stay_id": 1076979,
+    "hr_count": 873,
+    "spo2_count": 723,
+    "rr_count": 873,
+    "sbp_count": 19,
+    "temp_count": 34,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "011-10068": {
+    "stay_id": 1191583,
+    "hr_count": 591,
+    "spo2_count": 582,
+    "rr_count": 580,
+    "sbp_count": 182,
+    "temp_count": 641,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "011-10220": {
+    "stay_id": 1154606,
+    "hr_count": 3325,
+    "spo2_count": 3094,
+    "rr_count": 3325,
+    "sbp_count": 514,
+    "temp_count": 2090,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "011-11635": {
+    "stay_id": 1174746,
+    "hr_count": 253,
+    "spo2_count": 240,
+    "rr_count": 253,
+    "sbp_count": 22,
+    "temp_count": 84,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "013-10053": {
+    "stay_id": 1359918,
+    "hr_count": 1111,
+    "spo2_count": 1108,
+    "rr_count": 1111,
+    "sbp_count": 153,
+    "temp_count": 70,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "013-10192": {
+    "stay_id": 1325742,
+    "hr_count": 2020,
+    "spo2_count": 1946,
+    "rr_count": 2020,
+    "sbp_count": 278,
+    "temp_count": 78,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "015-100003": {
+    "stay_id": 1439835,
+    "hr_count": 1251,
+    "spo2_count": 1250,
+    "rr_count": 1251,
+    "sbp_count": 225,
+    "temp_count": 58,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "015-10155": {
+    "stay_id": 1441610,
+    "hr_count": 3944,
+    "spo2_count": 3932,
+    "rr_count": 3908,
+    "sbp_count": 335,
+    "temp_count": 190,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-10029": {
+    "stay_id": 1557373,
+    "hr_count": 294,
+    "spo2_count": 294,
+    "rr_count": 277,
+    "sbp_count": 29,
+    "temp_count": 94,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-10063": {
+    "stay_id": 1553527,
+    "hr_count": 32,
+    "spo2_count": 30,
+    "rr_count": 32,
+    "sbp_count": 34,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-10075": {
+    "stay_id": 1568247,
+    "hr_count": 895,
+    "spo2_count": 895,
+    "rr_count": 878,
+    "sbp_count": 181,
+    "temp_count": 188,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-1009": {
+    "stay_id": 1555005,
+    "hr_count": 308,
+    "spo2_count": 308,
+    "rr_count": 305,
+    "sbp_count": 55,
+    "temp_count": 40,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-10190": {
+    "stay_id": 1567943,
+    "hr_count": 626,
+    "spo2_count": 309,
+    "rr_count": 299,
+    "sbp_count": 32,
+    "temp_count": 46,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-10622": {
+    "stay_id": 1564685,
+    "hr_count": 25,
+    "spo2_count": 7,
+    "rr_count": 27,
+    "sbp_count": 47,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-10811": {
+    "stay_id": 1567241,
+    "hr_count": 120,
+    "spo2_count": 20,
+    "rr_count": 120,
+    "sbp_count": 9,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "016-11085": {
+    "stay_id": 1590358,
+    "hr_count": 49,
+    "spo2_count": 49,
+    "rr_count": 49,
+    "sbp_count": 8,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "017-100261": {
+    "stay_id": 1613434,
+    "hr_count": 315,
+    "spo2_count": 315,
+    "rr_count": 315,
+    "sbp_count": 183,
+    "temp_count": 32,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "017-100337": {
+    "stay_id": 1645662,
+    "hr_count": 699,
+    "spo2_count": 692,
+    "rr_count": 698,
+    "sbp_count": 49,
+    "temp_count": 46,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "017-100363": {
+    "stay_id": 1702184,
+    "hr_count": 2309,
+    "spo2_count": 2303,
+    "rr_count": 2309,
+    "sbp_count": 460,
+    "temp_count": 218,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "017-100751": {
+    "stay_id": 1709991,
+    "hr_count": 3524,
+    "spo2_count": 3201,
+    "rr_count": 3441,
+    "sbp_count": 448,
+    "temp_count": 338,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "017-101264": {
+    "stay_id": 1624344,
+    "hr_count": 272,
+    "spo2_count": 272,
+    "rr_count": 272,
+    "sbp_count": 15,
+    "temp_count": 18,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "017-103156": {
+    "stay_id": 1598701,
+    "hr_count": 1140,
+    "spo2_count": 1140,
+    "rr_count": 1137,
+    "sbp_count": 383,
+    "temp_count": 40,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-10011": {
+    "stay_id": 1721605,
+    "hr_count": 338,
+    "spo2_count": 339,
+    "rr_count": 334,
+    "sbp_count": 62,
+    "temp_count": 8,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100285": {
+    "stay_id": 1772933,
+    "hr_count": 964,
+    "spo2_count": 964,
+    "rr_count": 964,
+    "sbp_count": 187,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100371": {
+    "stay_id": 1733584,
+    "hr_count": 1435,
+    "spo2_count": 1434,
+    "rr_count": 1430,
+    "sbp_count": 135,
+    "temp_count": 14,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100455": {
+    "stay_id": 1751224,
+    "hr_count": 809,
+    "spo2_count": 801,
+    "rr_count": 809,
+    "sbp_count": 76,
+    "temp_count": 16,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100527": {
+    "stay_id": 1821487,
+    "hr_count": 829,
+    "spo2_count": 823,
+    "rr_count": 790,
+    "sbp_count": 74,
+    "temp_count": 22,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-10060": {
+    "stay_id": 1735220,
+    "hr_count": 842,
+    "spo2_count": 766,
+    "rr_count": 842,
+    "sbp_count": 93,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100739": {
+    "stay_id": 1829278,
+    "hr_count": 2976,
+    "spo2_count": 2898,
+    "rr_count": 2935,
+    "sbp_count": 451,
+    "temp_count": 40,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100832": {
+    "stay_id": 1795300,
+    "hr_count": 1271,
+    "spo2_count": 1218,
+    "rr_count": 1273,
+    "sbp_count": 267,
+    "temp_count": 22,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-100972": {
+    "stay_id": 1768103,
+    "hr_count": 2085,
+    "spo2_count": 2084,
+    "rr_count": 1992,
+    "sbp_count": 404,
+    "temp_count": 34,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-101832": {
+    "stay_id": 1852625,
+    "hr_count": 242,
+    "spo2_count": 242,
+    "rr_count": 242,
+    "sbp_count": 95,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-10187": {
+    "stay_id": 1817131,
+    "hr_count": 154,
+    "spo2_count": 153,
+    "rr_count": 154,
+    "sbp_count": 27,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-104007": {
+    "stay_id": 1786286,
+    "hr_count": 2267,
+    "spo2_count": 2264,
+    "rr_count": 2266,
+    "sbp_count": 282,
+    "temp_count": 38,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "018-107663": {
+    "stay_id": 1856821,
+    "hr_count": 2910,
+    "spo2_count": 2832,
+    "rr_count": 2861,
+    "sbp_count": 2010,
+    "temp_count": 28,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-100004": {
+    "stay_id": 2199589,
+    "hr_count": 4659,
+    "spo2_count": 4664,
+    "rr_count": 4626,
+    "sbp_count": 570,
+    "temp_count": 348,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-100383": {
+    "stay_id": 2161221,
+    "hr_count": 200,
+    "spo2_count": 200,
+    "rr_count": 199,
+    "sbp_count": 67,
+    "temp_count": 48,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-100497": {
+    "stay_id": 1976430,
+    "hr_count": 253,
+    "spo2_count": 229,
+    "rr_count": 253,
+    "sbp_count": 26,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-10057": {
+    "stay_id": 2258562,
+    "hr_count": 909,
+    "spo2_count": 881,
+    "rr_count": 907,
+    "sbp_count": 297,
+    "temp_count": 40,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-101051": {
+    "stay_id": 2193649,
+    "hr_count": 2267,
+    "spo2_count": 2209,
+    "rr_count": 2252,
+    "sbp_count": 790,
+    "temp_count": 90,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-103145": {
+    "stay_id": 2093411,
+    "hr_count": 1733,
+    "spo2_count": 1589,
+    "rr_count": 1731,
+    "sbp_count": 224,
+    "temp_count": 88,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-10393": {
+    "stay_id": 2134224,
+    "hr_count": 221,
+    "spo2_count": 221,
+    "rr_count": 221,
+    "sbp_count": 80,
+    "temp_count": 74,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "021-104948": {
+    "stay_id": 2075529,
+    "hr_count": 308,
+    "spo2_count": 308,
+    "rr_count": 308,
+    "sbp_count": 94,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-100046": {
+    "stay_id": 2470125,
+    "hr_count": 146,
+    "spo2_count": 146,
+    "rr_count": 146,
+    "sbp_count": 24,
+    "temp_count": 46,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-100580": {
+    "stay_id": 2436616,
+    "hr_count": 2454,
+    "spo2_count": 2439,
+    "rr_count": 724,
+    "sbp_count": 2150,
+    "temp_count": 180,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-100589": {
+    "stay_id": 2419768,
+    "hr_count": 1143,
+    "spo2_count": 935,
+    "rr_count": 1116,
+    "sbp_count": 23,
+    "temp_count": 36,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-100604": {
+    "stay_id": 2372698,
+    "hr_count": 808,
+    "spo2_count": 808,
+    "rr_count": 808,
+    "sbp_count": 134,
+    "temp_count": 34,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-100714": {
+    "stay_id": 2398822,
+    "hr_count": 201,
+    "spo2_count": 201,
+    "rr_count": 201,
+    "sbp_count": 35,
+    "temp_count": 54,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-100857": {
+    "stay_id": 2399157,
+    "hr_count": 491,
+    "spo2_count": 311,
+    "rr_count": 450,
+    "sbp_count": 101,
+    "temp_count": 62,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-101145": {
+    "stay_id": 2482439,
+    "hr_count": 543,
+    "spo2_count": 516,
+    "rr_count": 542,
+    "sbp_count": 136,
+    "temp_count": 54,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-101698": {
+    "stay_id": 2450383,
+    "hr_count": 2249,
+    "spo2_count": 2230,
+    "rr_count": 2249,
+    "sbp_count": 980,
+    "temp_count": 78,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-101731": {
+    "stay_id": 2358786,
+    "hr_count": 1129,
+    "spo2_count": 1127,
+    "rr_count": 989,
+    "sbp_count": 593,
+    "temp_count": 42,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-103797": {
+    "stay_id": 2334309,
+    "hr_count": 81,
+    "spo2_count": 81,
+    "rr_count": 81,
+    "sbp_count": 28,
+    "temp_count": 168,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-103873": {
+    "stay_id": 2492811,
+    "hr_count": 1910,
+    "spo2_count": 1918,
+    "rr_count": 1853,
+    "sbp_count": 559,
+    "temp_count": 110,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "022-10545": {
+    "stay_id": 2330077,
+    "hr_count": 1261,
+    "spo2_count": 1221,
+    "rr_count": 1261,
+    "sbp_count": 325,
+    "temp_count": 76,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "024-11208": {
+    "stay_id": 2558121,
+    "hr_count": 71,
+    "spo2_count": 53,
+    "rr_count": 70,
+    "sbp_count": 94,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10051": {
+    "stay_id": 2630349,
+    "hr_count": 727,
+    "spo2_count": 640,
+    "rr_count": 650,
+    "sbp_count": 99,
+    "temp_count": 14,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10060": {
+    "stay_id": 2597777,
+    "hr_count": 2218,
+    "spo2_count": 2059,
+    "rr_count": 2218,
+    "sbp_count": 362,
+    "temp_count": 32,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10067": {
+    "stay_id": 2645565,
+    "hr_count": 286,
+    "spo2_count": 235,
+    "rr_count": 282,
+    "sbp_count": 25,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10199": {
+    "stay_id": 2628859,
+    "hr_count": 859,
+    "spo2_count": 764,
+    "rr_count": 859,
+    "sbp_count": 175,
+    "temp_count": 16,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10380": {
+    "stay_id": 2644671,
+    "hr_count": 681,
+    "spo2_count": 683,
+    "rr_count": 686,
+    "sbp_count": 78,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10391": {
+    "stay_id": 2603291,
+    "hr_count": 301,
+    "spo2_count": 301,
+    "rr_count": 301,
+    "sbp_count": 309,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10402": {
+    "stay_id": 2646210,
+    "hr_count": 813,
+    "spo2_count": 779,
+    "rr_count": 799,
+    "sbp_count": 95,
+    "temp_count": 14,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10563": {
+    "stay_id": 2580992,
+    "hr_count": 339,
+    "spo2_count": 347,
+    "rr_count": 347,
+    "sbp_count": 82,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-10772": {
+    "stay_id": 2600791,
+    "hr_count": 776,
+    "spo2_count": 772,
+    "rr_count": 777,
+    "sbp_count": 371,
+    "temp_count": 152,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-11459": {
+    "stay_id": 2602528,
+    "hr_count": 1058,
+    "spo2_count": 813,
+    "rr_count": 1045,
+    "sbp_count": 83,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-11466": {
+    "stay_id": 2592641,
+    "hr_count": 881,
+    "spo2_count": 881,
+    "rr_count": 883,
+    "sbp_count": 710,
+    "temp_count": 18,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-12576": {
+    "stay_id": 2611440,
+    "hr_count": 357,
+    "spo2_count": 282,
+    "rr_count": 357,
+    "sbp_count": 25,
+    "temp_count": 6,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-12727": {
+    "stay_id": 2589516,
+    "hr_count": 991,
+    "spo2_count": 993,
+    "rr_count": 996,
+    "sbp_count": 402,
+    "temp_count": 18,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-13916": {
+    "stay_id": 2595884,
+    "hr_count": 1620,
+    "spo2_count": 1528,
+    "rr_count": 1540,
+    "sbp_count": 135,
+    "temp_count": 30,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-17363": {
+    "stay_id": 2606115,
+    "hr_count": 339,
+    "spo2_count": 294,
+    "rr_count": 338,
+    "sbp_count": 33,
+    "temp_count": 8,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-20144": {
+    "stay_id": 2635556,
+    "hr_count": 3629,
+    "spo2_count": 3533,
+    "rr_count": 3629,
+    "sbp_count": 1696,
+    "temp_count": 68,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-20980": {
+    "stay_id": 2637542,
+    "hr_count": 1478,
+    "spo2_count": 1492,
+    "rr_count": 1477,
+    "sbp_count": 154,
+    "temp_count": 24,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "025-23460": {
+    "stay_id": 2600767,
+    "hr_count": 494,
+    "spo2_count": 492,
+    "rr_count": 494,
+    "sbp_count": 62,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100000": {
+    "stay_id": 2786505,
+    "hr_count": 3951,
+    "spo2_count": 3933,
+    "rr_count": 3940,
+    "sbp_count": 1189,
+    "temp_count": 2000,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100044": {
+    "stay_id": 2849399,
+    "hr_count": 456,
+    "spo2_count": 450,
+    "rr_count": 456,
+    "sbp_count": 42,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100045": {
+    "stay_id": 2740973,
+    "hr_count": 282,
+    "spo2_count": 278,
+    "rr_count": 59,
+    "sbp_count": 93,
+    "temp_count": 464,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100217": {
+    "stay_id": 2864521,
+    "hr_count": 1232,
+    "spo2_count": 1217,
+    "rr_count": 1188,
+    "sbp_count": 136,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100405": {
+    "stay_id": 2837644,
+    "hr_count": 184,
+    "spo2_count": 185,
+    "rr_count": 184,
+    "sbp_count": 19,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100592": {
+    "stay_id": 2681532,
+    "hr_count": 863,
+    "spo2_count": 862,
+    "rr_count": 839,
+    "sbp_count": 118,
+    "temp_count": 38,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100668": {
+    "stay_id": 2812202,
+    "hr_count": 469,
+    "spo2_count": 461,
+    "rr_count": 469,
+    "sbp_count": 34,
+    "temp_count": 12,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100747": {
+    "stay_id": 2705166,
+    "hr_count": 5564,
+    "spo2_count": 5482,
+    "rr_count": 5538,
+    "sbp_count": 1170,
+    "temp_count": 7439,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-100887": {
+    "stay_id": 2748974,
+    "hr_count": 937,
+    "spo2_count": 935,
+    "rr_count": 937,
+    "sbp_count": 228,
+    "temp_count": 1238,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-101020": {
+    "stay_id": 2846485,
+    "hr_count": 4579,
+    "spo2_count": 4321,
+    "rr_count": 4098,
+    "sbp_count": 2010,
+    "temp_count": 4030,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-101368": {
+    "stay_id": 2740390,
+    "hr_count": 3943,
+    "spo2_count": 3922,
+    "rr_count": 3943,
+    "sbp_count": 1004,
+    "temp_count": 3961,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-101535": {
+    "stay_id": 2873463,
+    "hr_count": 535,
+    "spo2_count": 534,
+    "rr_count": 535,
+    "sbp_count": 102,
+    "temp_count": 535,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-101543": {
+    "stay_id": 2885054,
+    "hr_count": 4773,
+    "spo2_count": 4755,
+    "rr_count": 2835,
+    "sbp_count": 2678,
+    "temp_count": 7804,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-10160": {
+    "stay_id": 2752622,
+    "hr_count": 1535,
+    "spo2_count": 1517,
+    "rr_count": 1535,
+    "sbp_count": 515,
+    "temp_count": 767,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-101692": {
+    "stay_id": 2879465,
+    "hr_count": 1191,
+    "spo2_count": 1153,
+    "rr_count": 1111,
+    "sbp_count": 187,
+    "temp_count": 84,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-101768": {
+    "stay_id": 2675931,
+    "hr_count": 4893,
+    "spo2_count": 4852,
+    "rr_count": 4870,
+    "sbp_count": 2369,
+    "temp_count": 4264,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-102309": {
+    "stay_id": 2761777,
+    "hr_count": 2571,
+    "spo2_count": 2533,
+    "rr_count": 2569,
+    "sbp_count": 385,
+    "temp_count": 154,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-102923": {
+    "stay_id": 2841895,
+    "hr_count": 583,
+    "spo2_count": 583,
+    "rr_count": 583,
+    "sbp_count": 105,
+    "temp_count": 62,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-103535": {
+    "stay_id": 2714303,
+    "hr_count": 597,
+    "spo2_count": 563,
+    "rr_count": 586,
+    "sbp_count": 43,
+    "temp_count": 32,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-103877": {
+    "stay_id": 2873230,
+    "hr_count": 10083,
+    "spo2_count": 10075,
+    "rr_count": 9952,
+    "sbp_count": 3301,
+    "temp_count": 442,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-104796": {
+    "stay_id": 2758779,
+    "hr_count": 256,
+    "spo2_count": 257,
+    "rr_count": 256,
+    "sbp_count": 21,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-104902": {
+    "stay_id": 2781128,
+    "hr_count": 1215,
+    "spo2_count": 1214,
+    "rr_count": 1212,
+    "sbp_count": 244,
+    "temp_count": 170,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-105098": {
+    "stay_id": 2728472,
+    "hr_count": 5867,
+    "spo2_count": 5771,
+    "rr_count": 5785,
+    "sbp_count": 839,
+    "temp_count": 484,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-105315": {
+    "stay_id": 2828835,
+    "hr_count": 1659,
+    "spo2_count": 1315,
+    "rr_count": 1434,
+    "sbp_count": 173,
+    "temp_count": 112,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-105529": {
+    "stay_id": 2691019,
+    "hr_count": 1019,
+    "spo2_count": 1019,
+    "rr_count": 1019,
+    "sbp_count": 190,
+    "temp_count": 142,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-106174": {
+    "stay_id": 2851841,
+    "hr_count": 140,
+    "spo2_count": 140,
+    "rr_count": 140,
+    "sbp_count": 47,
+    "temp_count": 151,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-10626": {
+    "stay_id": 2834193,
+    "hr_count": 366,
+    "spo2_count": 364,
+    "rr_count": 366,
+    "sbp_count": 47,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-108747": {
+    "stay_id": 2724441,
+    "hr_count": 841,
+    "spo2_count": 787,
+    "rr_count": 838,
+    "sbp_count": 124,
+    "temp_count": 26,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-109486": {
+    "stay_id": 2714092,
+    "hr_count": 415,
+    "spo2_count": 419,
+    "rr_count": 415,
+    "sbp_count": 37,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-110512": {
+    "stay_id": 2801211,
+    "hr_count": 408,
+    "spo2_count": 409,
+    "rr_count": 408,
+    "sbp_count": 65,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-111244": {
+    "stay_id": 2869455,
+    "hr_count": 1038,
+    "spo2_count": 783,
+    "rr_count": 1038,
+    "sbp_count": 116,
+    "temp_count": 56,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "027-111437": {
+    "stay_id": 2743241,
+    "hr_count": 2712,
+    "spo2_count": 2611,
+    "rr_count": 2616,
+    "sbp_count": 280,
+    "temp_count": 3213,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "028-10451": {
+    "stay_id": 2903847,
+    "hr_count": 882,
+    "spo2_count": 867,
+    "rr_count": 880,
+    "sbp_count": 79,
+    "temp_count": 84,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "029-10005": {
+    "stay_id": 2999209,
+    "hr_count": 200,
+    "spo2_count": 197,
+    "rr_count": 200,
+    "sbp_count": 181,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "029-10037": {
+    "stay_id": 3029353,
+    "hr_count": 271,
+    "spo2_count": 254,
+    "rr_count": 271,
+    "sbp_count": 99,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "029-1007": {
+    "stay_id": 3012414,
+    "hr_count": 1434,
+    "spo2_count": 1153,
+    "rr_count": 1386,
+    "sbp_count": 131,
+    "temp_count": 60,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "029-10096": {
+    "stay_id": 3027284,
+    "hr_count": 1448,
+    "spo2_count": 1370,
+    "rr_count": 1438,
+    "sbp_count": 390,
+    "temp_count": 56,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10022": {
+    "stay_id": 3058972,
+    "hr_count": 922,
+    "spo2_count": 908,
+    "rr_count": 922,
+    "sbp_count": 170,
+    "temp_count": 38,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10035": {
+    "stay_id": 3119186,
+    "hr_count": 1046,
+    "spo2_count": 732,
+    "rr_count": 571,
+    "sbp_count": 263,
+    "temp_count": 42,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10159": {
+    "stay_id": 3046540,
+    "hr_count": 879,
+    "spo2_count": 853,
+    "rr_count": 894,
+    "sbp_count": 96,
+    "temp_count": 42,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-1017": {
+    "stay_id": 3124262,
+    "hr_count": 1190,
+    "spo2_count": 1189,
+    "rr_count": 1156,
+    "sbp_count": 146,
+    "temp_count": 116,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10194": {
+    "stay_id": 3097587,
+    "hr_count": 284,
+    "spo2_count": 270,
+    "rr_count": 241,
+    "sbp_count": 47,
+    "temp_count": 197,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10431": {
+    "stay_id": 3060213,
+    "hr_count": 1445,
+    "spo2_count": 1550,
+    "rr_count": 1367,
+    "sbp_count": 157,
+    "temp_count": 60,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-1077": {
+    "stay_id": 3127160,
+    "hr_count": 486,
+    "spo2_count": 475,
+    "rr_count": 485,
+    "sbp_count": 112,
+    "temp_count": 44,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-1080": {
+    "stay_id": 3099676,
+    "hr_count": 2678,
+    "spo2_count": 2678,
+    "rr_count": 2674,
+    "sbp_count": 2733,
+    "temp_count": 240,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10839": {
+    "stay_id": 3100629,
+    "hr_count": 941,
+    "spo2_count": 905,
+    "rr_count": 938,
+    "sbp_count": 142,
+    "temp_count": 50,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-10990": {
+    "stay_id": 3083539,
+    "hr_count": 832,
+    "spo2_count": 791,
+    "rr_count": 832,
+    "sbp_count": 81,
+    "temp_count": 28,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-11074": {
+    "stay_id": 3095720,
+    "hr_count": 227,
+    "spo2_count": 227,
+    "rr_count": 227,
+    "sbp_count": 74,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-11178": {
+    "stay_id": 3085970,
+    "hr_count": 4021,
+    "spo2_count": 3982,
+    "rr_count": 3945,
+    "sbp_count": 727,
+    "temp_count": 174,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-11400": {
+    "stay_id": 3098570,
+    "hr_count": 1868,
+    "spo2_count": 1556,
+    "rr_count": 1486,
+    "sbp_count": 623,
+    "temp_count": 74,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-11474": {
+    "stay_id": 3114713,
+    "hr_count": 781,
+    "spo2_count": 779,
+    "rr_count": 781,
+    "sbp_count": 171,
+    "temp_count": 100,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-11522": {
+    "stay_id": 3069831,
+    "hr_count": 277,
+    "spo2_count": 228,
+    "rr_count": 267,
+    "sbp_count": 28,
+    "temp_count": 28,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-11571": {
+    "stay_id": 3086265,
+    "hr_count": 1846,
+    "spo2_count": 1864,
+    "rr_count": 1837,
+    "sbp_count": 199,
+    "temp_count": 110,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-12027": {
+    "stay_id": 3053511,
+    "hr_count": 816,
+    "spo2_count": 801,
+    "rr_count": 816,
+    "sbp_count": 181,
+    "temp_count": 32,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "030-12359": {
+    "stay_id": 3034194,
+    "hr_count": 298,
+    "spo2_count": 318,
+    "rr_count": 298,
+    "sbp_count": 33,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10025": {
+    "stay_id": 3136218,
+    "hr_count": 214,
+    "spo2_count": 31,
+    "rr_count": 217,
+    "sbp_count": 17,
+    "temp_count": 14,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10046": {
+    "stay_id": 3155533,
+    "hr_count": 1530,
+    "spo2_count": 1186,
+    "rr_count": 1530,
+    "sbp_count": 162,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10053": {
+    "stay_id": 3148909,
+    "hr_count": 441,
+    "spo2_count": 439,
+    "rr_count": 441,
+    "sbp_count": 81,
+    "temp_count": 14,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10061": {
+    "stay_id": 3132737,
+    "hr_count": 289,
+    "spo2_count": 282,
+    "rr_count": 289,
+    "sbp_count": 28,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10095": {
+    "stay_id": 3159526,
+    "hr_count": 5661,
+    "spo2_count": 5639,
+    "rr_count": 5610,
+    "sbp_count": 1453,
+    "temp_count": 447,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10101": {
+    "stay_id": 3139532,
+    "hr_count": 3143,
+    "spo2_count": 2852,
+    "rr_count": 2987,
+    "sbp_count": 405,
+    "temp_count": 2953,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10172": {
+    "stay_id": 3142795,
+    "hr_count": 448,
+    "spo2_count": 448,
+    "rr_count": 448,
+    "sbp_count": 161,
+    "temp_count": 50,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10198": {
+    "stay_id": 3157676,
+    "hr_count": 214,
+    "spo2_count": 214,
+    "rr_count": 214,
+    "sbp_count": 75,
+    "temp_count": 189,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10265": {
+    "stay_id": 3145378,
+    "hr_count": 680,
+    "spo2_count": 679,
+    "rr_count": 680,
+    "sbp_count": 173,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10329": {
+    "stay_id": 3139600,
+    "hr_count": 356,
+    "spo2_count": 337,
+    "rr_count": 353,
+    "sbp_count": 63,
+    "temp_count": 2,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10411": {
+    "stay_id": 3155276,
+    "hr_count": 442,
+    "spo2_count": 215,
+    "rr_count": 441,
+    "sbp_count": 30,
+    "temp_count": 4,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10460": {
+    "stay_id": 3140490,
+    "hr_count": 2621,
+    "spo2_count": 2574,
+    "rr_count": 2581,
+    "sbp_count": 619,
+    "temp_count": 120,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10510": {
+    "stay_id": 3145787,
+    "hr_count": 3136,
+    "spo2_count": 3036,
+    "rr_count": 3080,
+    "sbp_count": 580,
+    "temp_count": 120,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10622": {
+    "stay_id": 3136459,
+    "hr_count": 1837,
+    "spo2_count": 1835,
+    "rr_count": 1837,
+    "sbp_count": 159,
+    "temp_count": 74,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10664": {
+    "stay_id": 3149953,
+    "hr_count": 944,
+    "spo2_count": 947,
+    "rr_count": 944,
+    "sbp_count": 90,
+    "temp_count": 44,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10706": {
+    "stay_id": 3149046,
+    "hr_count": 703,
+    "spo2_count": 696,
+    "rr_count": 703,
+    "sbp_count": 89,
+    "temp_count": 629,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10780": {
+    "stay_id": 3141811,
+    "hr_count": 162,
+    "spo2_count": 158,
+    "rr_count": 162,
+    "sbp_count": 28,
+    "temp_count": 174,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-10809": {
+    "stay_id": 3152675,
+    "hr_count": 1104,
+    "spo2_count": 1087,
+    "rr_count": 977,
+    "sbp_count": 226,
+    "temp_count": 1191,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-11082": {
+    "stay_id": 3149587,
+    "hr_count": 357,
+    "spo2_count": 352,
+    "rr_count": 357,
+    "sbp_count": 29,
+    "temp_count": 181,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-11108": {
+    "stay_id": 3153393,
+    "hr_count": 458,
+    "spo2_count": 433,
+    "rr_count": 333,
+    "sbp_count": 464,
+    "temp_count": 311,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-11204": {
+    "stay_id": 3154481,
+    "hr_count": 1248,
+    "spo2_count": 1245,
+    "rr_count": 1248,
+    "sbp_count": 118,
+    "temp_count": 48,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "031-11218": {
+    "stay_id": 3149078,
+    "hr_count": 488,
+    "spo2_count": 482,
+    "rr_count": 488,
+    "sbp_count": 94,
+    "temp_count": 20,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "032-101": {
+    "stay_id": 3178242,
+    "hr_count": 568,
+    "spo2_count": 568,
+    "rr_count": 565,
+    "sbp_count": 568,
+    "temp_count": 200,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "032-10119": {
+    "stay_id": 3163374,
+    "hr_count": 6780,
+    "spo2_count": 6725,
+    "rr_count": 6752,
+    "sbp_count": 6923,
+    "temp_count": 400,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "033-10092": {
+    "stay_id": 3237333,
+    "hr_count": 293,
+    "spo2_count": 286,
+    "rr_count": 293,
+    "sbp_count": 126,
+    "temp_count": 10,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "033-10137": {
+    "stay_id": 3233306,
+    "hr_count": 685,
+    "spo2_count": 685,
+    "rr_count": 680,
+    "sbp_count": 665,
+    "temp_count": 32,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "033-10266": {
+    "stay_id": 3211766,
+    "hr_count": 113,
+    "spo2_count": 112,
+    "rr_count": 113,
+    "sbp_count": 46,
+    "temp_count": 73,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "033-10401": {
+    "stay_id": 3210585,
+    "hr_count": 168,
+    "spo2_count": 168,
+    "rr_count": 168,
+    "sbp_count": 15,
+    "temp_count": 62,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "035-10304": {
+    "stay_id": 3341168,
+    "hr_count": 468,
+    "spo2_count": 468,
+    "rr_count": 468,
+    "sbp_count": 75,
+    "temp_count": 22,
+    "label": 1,
+    "class": "pneumonia"
+  },
+  "002-10187": {
+    "stay_id": 169525,
+    "hr_count": 565,
+    "spo2_count": 526,
+    "rr_count": 564,
+    "sbp_count": 235,
+    "temp_count": 36,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10249": {
+    "stay_id": 222133,
+    "hr_count": 365,
+    "spo2_count": 248,
+    "rr_count": 245,
+    "sbp_count": 262,
+    "temp_count": 48,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10263": {
+    "stay_id": 205061,
+    "hr_count": 667,
+    "spo2_count": 645,
+    "rr_count": 246,
+    "sbp_count": 165,
+    "temp_count": 100,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10287": {
+    "stay_id": 169974,
+    "hr_count": 557,
+    "spo2_count": 460,
+    "rr_count": 511,
+    "sbp_count": 54,
+    "temp_count": 28,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10659": {
+    "stay_id": 166175,
+    "hr_count": 233,
+    "spo2_count": 24,
+    "rr_count": 228,
+    "sbp_count": 20,
+    "temp_count": 78,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10672": {
+    "stay_id": 166864,
+    "hr_count": 287,
+    "spo2_count": 283,
+    "rr_count": 277,
+    "sbp_count": 79,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10757": {
+    "stay_id": 237332,
+    "hr_count": 252,
+    "spo2_count": 125,
+    "rr_count": 17,
+    "sbp_count": 16,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10804": {
+    "stay_id": 223303,
+    "hr_count": 397,
+    "spo2_count": 192,
+    "rr_count": 396,
+    "sbp_count": 29,
+    "temp_count": 32,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-10860": {
+    "stay_id": 211715,
+    "hr_count": 568,
+    "spo2_count": 567,
+    "rr_count": 568,
+    "sbp_count": 391,
+    "temp_count": 126,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-11015": {
+    "stay_id": 179030,
+    "hr_count": 139,
+    "spo2_count": 125,
+    "rr_count": 136,
+    "sbp_count": 12,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-11177": {
+    "stay_id": 209139,
+    "hr_count": 673,
+    "spo2_count": 669,
+    "rr_count": 653,
+    "sbp_count": 52,
+    "temp_count": 32,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-11232": {
+    "stay_id": 162502,
+    "hr_count": 1379,
+    "spo2_count": 1051,
+    "rr_count": 486,
+    "sbp_count": 217,
+    "temp_count": 76,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-11589": {
+    "stay_id": 195105,
+    "hr_count": 339,
+    "spo2_count": 16,
+    "rr_count": 214,
+    "sbp_count": 19,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-1195": {
+    "stay_id": 176730,
+    "hr_count": 807,
+    "spo2_count": 137,
+    "rr_count": 205,
+    "sbp_count": 173,
+    "temp_count": 32,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-12056": {
+    "stay_id": 198627,
+    "hr_count": 1480,
+    "spo2_count": 1470,
+    "rr_count": 1478,
+    "sbp_count": 1221,
+    "temp_count": 62,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-12243": {
+    "stay_id": 145427,
+    "hr_count": 238,
+    "spo2_count": 126,
+    "rr_count": 126,
+    "sbp_count": 24,
+    "temp_count": 46,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "002-12480": {
+    "stay_id": 166853,
+    "hr_count": 211,
+    "spo2_count": 52,
+    "rr_count": 203,
+    "sbp_count": 27,
+    "temp_count": 66,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "003-10409": {
+    "stay_id": 263285,
+    "hr_count": 45,
+    "spo2_count": 45,
+    "rr_count": 45,
+    "sbp_count": 12,
+    "temp_count": 16,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "003-10552": {
+    "stay_id": 260961,
+    "hr_count": 476,
+    "spo2_count": 216,
+    "rr_count": 476,
+    "sbp_count": 49,
+    "temp_count": 22,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "003-11088": {
+    "stay_id": 264901,
+    "hr_count": 1159,
+    "spo2_count": 307,
+    "rr_count": 1158,
+    "sbp_count": 91,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "003-11313": {
+    "stay_id": 301780,
+    "hr_count": 403,
+    "spo2_count": 289,
+    "rr_count": 403,
+    "sbp_count": 41,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "003-13223": {
+    "stay_id": 275329,
+    "hr_count": 227,
+    "spo2_count": 107,
+    "rr_count": 160,
+    "sbp_count": 11,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "003-16144": {
+    "stay_id": 302668,
+    "hr_count": 908,
+    "spo2_count": 859,
+    "rr_count": 909,
+    "sbp_count": 1087,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "004-11287": {
+    "stay_id": 387623,
+    "hr_count": 500,
+    "spo2_count": 478,
+    "rr_count": 498,
+    "sbp_count": 99,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "004-15269": {
+    "stay_id": 389703,
+    "hr_count": 2035,
+    "spo2_count": 1911,
+    "rr_count": 1957,
+    "sbp_count": 190,
+    "temp_count": 90,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "004-21403": {
+    "stay_id": 314184,
+    "hr_count": 163,
+    "spo2_count": 165,
+    "rr_count": 148,
+    "sbp_count": 3,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "005-10242": {
+    "stay_id": 524799,
+    "hr_count": 2733,
+    "spo2_count": 1927,
+    "rr_count": 2727,
+    "sbp_count": 559,
+    "temp_count": 96,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "005-10445": {
+    "stay_id": 425870,
+    "hr_count": 831,
+    "spo2_count": 827,
+    "rr_count": 743,
+    "sbp_count": 105,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "005-10528": {
+    "stay_id": 490454,
+    "hr_count": 2344,
+    "spo2_count": 2344,
+    "rr_count": 2344,
+    "sbp_count": 237,
+    "temp_count": 90,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "005-10568": {
+    "stay_id": 521456,
+    "hr_count": 13109,
+    "spo2_count": 12990,
+    "rr_count": 12022,
+    "sbp_count": 7224,
+    "temp_count": 532,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "005-11202": {
+    "stay_id": 485952,
+    "hr_count": 538,
+    "spo2_count": 531,
+    "rr_count": 538,
+    "sbp_count": 60,
+    "temp_count": 22,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "005-11233": {
+    "stay_id": 466465,
+    "hr_count": 666,
+    "spo2_count": 347,
+    "rr_count": 662,
+    "sbp_count": 56,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100117": {
+    "stay_id": 922231,
+    "hr_count": 824,
+    "spo2_count": 602,
+    "rr_count": 806,
+    "sbp_count": 191,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100188": {
+    "stay_id": 772262,
+    "hr_count": 211,
+    "spo2_count": 205,
+    "rr_count": 211,
+    "sbp_count": 183,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100190": {
+    "stay_id": 916394,
+    "hr_count": 580,
+    "spo2_count": 572,
+    "rr_count": 580,
+    "sbp_count": 281,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100372": {
+    "stay_id": 847126,
+    "hr_count": 202,
+    "spo2_count": 179,
+    "rr_count": 170,
+    "sbp_count": 42,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100396": {
+    "stay_id": 535166,
+    "hr_count": 174,
+    "spo2_count": 174,
+    "rr_count": 174,
+    "sbp_count": 29,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100520": {
+    "stay_id": 931649,
+    "hr_count": 1673,
+    "spo2_count": 1618,
+    "rr_count": 1655,
+    "sbp_count": 1778,
+    "temp_count": 76,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100534": {
+    "stay_id": 898372,
+    "hr_count": 727,
+    "spo2_count": 722,
+    "rr_count": 725,
+    "sbp_count": 441,
+    "temp_count": 26,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100613": {
+    "stay_id": 925178,
+    "hr_count": 147,
+    "spo2_count": 142,
+    "rr_count": 147,
+    "sbp_count": 20,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100625": {
+    "stay_id": 865698,
+    "hr_count": 528,
+    "spo2_count": 484,
+    "rr_count": 528,
+    "sbp_count": 261,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100823": {
+    "stay_id": 706954,
+    "hr_count": 219,
+    "spo2_count": 215,
+    "rr_count": 212,
+    "sbp_count": 215,
+    "temp_count": 16,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100897": {
+    "stay_id": 876268,
+    "hr_count": 3075,
+    "spo2_count": 3048,
+    "rr_count": 3075,
+    "sbp_count": 2059,
+    "temp_count": 214,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-100925": {
+    "stay_id": 856437,
+    "hr_count": 389,
+    "spo2_count": 287,
+    "rr_count": 389,
+    "sbp_count": 43,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-10108": {
+    "stay_id": 662091,
+    "hr_count": 304,
+    "spo2_count": 304,
+    "rr_count": 304,
+    "sbp_count": 82,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-10118": {
+    "stay_id": 852423,
+    "hr_count": 285,
+    "spo2_count": 278,
+    "rr_count": 285,
+    "sbp_count": 287,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-101391": {
+    "stay_id": 818155,
+    "hr_count": 298,
+    "spo2_count": 295,
+    "rr_count": 172,
+    "sbp_count": 85,
+    "temp_count": 28,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-101509": {
+    "stay_id": 785320,
+    "hr_count": 776,
+    "spo2_count": 733,
+    "rr_count": 776,
+    "sbp_count": 96,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-101604": {
+    "stay_id": 937152,
+    "hr_count": 264,
+    "spo2_count": 229,
+    "rr_count": 264,
+    "sbp_count": 115,
+    "temp_count": 4,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-101718": {
+    "stay_id": 640796,
+    "hr_count": 1662,
+    "spo2_count": 1665,
+    "rr_count": 1662,
+    "sbp_count": 980,
+    "temp_count": 84,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-101740": {
+    "stay_id": 849188,
+    "hr_count": 1685,
+    "spo2_count": 1574,
+    "rr_count": 1683,
+    "sbp_count": 144,
+    "temp_count": 64,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-101907": {
+    "stay_id": 942529,
+    "hr_count": 251,
+    "spo2_count": 253,
+    "rr_count": 251,
+    "sbp_count": 219,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-102048": {
+    "stay_id": 538214,
+    "hr_count": 614,
+    "spo2_count": 587,
+    "rr_count": 614,
+    "sbp_count": 34,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-102268": {
+    "stay_id": 547540,
+    "hr_count": 588,
+    "spo2_count": 585,
+    "rr_count": 587,
+    "sbp_count": 65,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-102963": {
+    "stay_id": 858036,
+    "hr_count": 519,
+    "spo2_count": 422,
+    "rr_count": 15,
+    "sbp_count": 33,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-104285": {
+    "stay_id": 722596,
+    "hr_count": 346,
+    "spo2_count": 308,
+    "rr_count": 346,
+    "sbp_count": 10,
+    "temp_count": 18,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-106259": {
+    "stay_id": 674731,
+    "hr_count": 74,
+    "spo2_count": 75,
+    "rr_count": 14,
+    "sbp_count": 20,
+    "temp_count": 32,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-107384": {
+    "stay_id": 679748,
+    "hr_count": 101,
+    "spo2_count": 101,
+    "rr_count": 101,
+    "sbp_count": 10,
+    "temp_count": 8,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "006-111132": {
+    "stay_id": 602216,
+    "hr_count": 915,
+    "spo2_count": 525,
+    "rr_count": 879,
+    "sbp_count": 22,
+    "temp_count": 42,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10010": {
+    "stay_id": 979122,
+    "hr_count": 884,
+    "spo2_count": 801,
+    "rr_count": 884,
+    "sbp_count": 77,
+    "temp_count": 36,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10057": {
+    "stay_id": 972135,
+    "hr_count": 787,
+    "spo2_count": 776,
+    "rr_count": 771,
+    "sbp_count": 190,
+    "temp_count": 42,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10076": {
+    "stay_id": 961441,
+    "hr_count": 2015,
+    "spo2_count": 1981,
+    "rr_count": 2014,
+    "sbp_count": 517,
+    "temp_count": 104,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10086": {
+    "stay_id": 965562,
+    "hr_count": 399,
+    "spo2_count": 399,
+    "rr_count": 399,
+    "sbp_count": 242,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10100": {
+    "stay_id": 971201,
+    "hr_count": 362,
+    "spo2_count": 216,
+    "rr_count": 386,
+    "sbp_count": 8,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10111": {
+    "stay_id": 970984,
+    "hr_count": 1710,
+    "spo2_count": 1704,
+    "rr_count": 1710,
+    "sbp_count": 396,
+    "temp_count": 80,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10134": {
+    "stay_id": 971171,
+    "hr_count": 370,
+    "spo2_count": 364,
+    "rr_count": 367,
+    "sbp_count": 61,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10248": {
+    "stay_id": 968367,
+    "hr_count": 3410,
+    "spo2_count": 2952,
+    "rr_count": 3381,
+    "sbp_count": 445,
+    "temp_count": 160,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "007-10364": {
+    "stay_id": 970328,
+    "hr_count": 572,
+    "spo2_count": 609,
+    "rr_count": 595,
+    "sbp_count": 115,
+    "temp_count": 52,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "008-10003": {
+    "stay_id": 1034813,
+    "hr_count": 1755,
+    "spo2_count": 1355,
+    "rr_count": 1754,
+    "sbp_count": 290,
+    "temp_count": 459,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "008-10123": {
+    "stay_id": 1008970,
+    "hr_count": 661,
+    "spo2_count": 654,
+    "rr_count": 640,
+    "sbp_count": 122,
+    "temp_count": 26,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10003": {
+    "stay_id": 1074253,
+    "hr_count": 384,
+    "spo2_count": 334,
+    "rr_count": 384,
+    "sbp_count": 41,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10020": {
+    "stay_id": 1060026,
+    "hr_count": 842,
+    "spo2_count": 705,
+    "rr_count": 837,
+    "sbp_count": 83,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10053": {
+    "stay_id": 1058611,
+    "hr_count": 279,
+    "spo2_count": 81,
+    "rr_count": 277,
+    "sbp_count": 29,
+    "temp_count": 279,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10093": {
+    "stay_id": 1064283,
+    "hr_count": 590,
+    "spo2_count": 544,
+    "rr_count": 562,
+    "sbp_count": 68,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10231": {
+    "stay_id": 1067237,
+    "hr_count": 1469,
+    "spo2_count": 1414,
+    "rr_count": 1464,
+    "sbp_count": 1262,
+    "temp_count": 256,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10275": {
+    "stay_id": 1066202,
+    "hr_count": 1094,
+    "spo2_count": 1094,
+    "rr_count": 1094,
+    "sbp_count": 186,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10291": {
+    "stay_id": 1072605,
+    "hr_count": 260,
+    "spo2_count": 265,
+    "rr_count": 260,
+    "sbp_count": 31,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10554": {
+    "stay_id": 1063742,
+    "hr_count": 480,
+    "spo2_count": 447,
+    "rr_count": 477,
+    "sbp_count": 42,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "009-10658": {
+    "stay_id": 1065859,
+    "hr_count": 1423,
+    "spo2_count": 896,
+    "rr_count": 1343,
+    "sbp_count": 228,
+    "temp_count": 62,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10021": {
+    "stay_id": 1124068,
+    "hr_count": 255,
+    "spo2_count": 240,
+    "rr_count": 255,
+    "sbp_count": 26,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10037": {
+    "stay_id": 1109136,
+    "hr_count": 305,
+    "spo2_count": 304,
+    "rr_count": 305,
+    "sbp_count": 300,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10061": {
+    "stay_id": 1101375,
+    "hr_count": 10440,
+    "spo2_count": 10420,
+    "rr_count": 10439,
+    "sbp_count": 1642,
+    "temp_count": 852,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10081": {
+    "stay_id": 1081591,
+    "hr_count": 6092,
+    "spo2_count": 6086,
+    "rr_count": 6092,
+    "sbp_count": 1388,
+    "temp_count": 558,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10093": {
+    "stay_id": 1095052,
+    "hr_count": 787,
+    "spo2_count": 788,
+    "rr_count": 784,
+    "sbp_count": 148,
+    "temp_count": 70,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10246": {
+    "stay_id": 1107902,
+    "hr_count": 453,
+    "spo2_count": 443,
+    "rr_count": 453,
+    "sbp_count": 272,
+    "temp_count": 212,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-10618": {
+    "stay_id": 1104960,
+    "hr_count": 162,
+    "spo2_count": 121,
+    "rr_count": 162,
+    "sbp_count": 36,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-11290": {
+    "stay_id": 1096032,
+    "hr_count": 346,
+    "spo2_count": 2,
+    "rr_count": 310,
+    "sbp_count": 8,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-11444": {
+    "stay_id": 1134986,
+    "hr_count": 1671,
+    "spo2_count": 1143,
+    "rr_count": 1619,
+    "sbp_count": 66,
+    "temp_count": 60,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-11713": {
+    "stay_id": 1105687,
+    "hr_count": 544,
+    "spo2_count": 217,
+    "rr_count": 515,
+    "sbp_count": 39,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "010-12021": {
+    "stay_id": 1091677,
+    "hr_count": 643,
+    "spo2_count": 19,
+    "rr_count": 643,
+    "sbp_count": 15,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "011-10097": {
+    "stay_id": 1160785,
+    "hr_count": 268,
+    "spo2_count": 264,
+    "rr_count": 268,
+    "sbp_count": 227,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "011-10115": {
+    "stay_id": 1192076,
+    "hr_count": 333,
+    "spo2_count": 331,
+    "rr_count": 333,
+    "sbp_count": 109,
+    "temp_count": 16,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "011-10139": {
+    "stay_id": 1195714,
+    "hr_count": 255,
+    "spo2_count": 254,
+    "rr_count": 254,
+    "sbp_count": 185,
+    "temp_count": 175,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "011-11203": {
+    "stay_id": 1137420,
+    "hr_count": 416,
+    "spo2_count": 416,
+    "rr_count": 384,
+    "sbp_count": 78,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "011-17619": {
+    "stay_id": 1147520,
+    "hr_count": 429,
+    "spo2_count": 426,
+    "rr_count": 429,
+    "sbp_count": 55,
+    "temp_count": 225,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "013-10116": {
+    "stay_id": 1352773,
+    "hr_count": 1162,
+    "spo2_count": 1150,
+    "rr_count": 1136,
+    "sbp_count": 689,
+    "temp_count": 60,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "013-10236": {
+    "stay_id": 1327852,
+    "hr_count": 419,
+    "spo2_count": 419,
+    "rr_count": 419,
+    "sbp_count": 30,
+    "temp_count": 16,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "015-100025": {
+    "stay_id": 1494982,
+    "hr_count": 471,
+    "spo2_count": 471,
+    "rr_count": 471,
+    "sbp_count": 111,
+    "temp_count": 46,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "015-100063": {
+    "stay_id": 1525675,
+    "hr_count": 1070,
+    "spo2_count": 1048,
+    "rr_count": 1070,
+    "sbp_count": 535,
+    "temp_count": 60,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "015-100080": {
+    "stay_id": 1448756,
+    "hr_count": 578,
+    "spo2_count": 546,
+    "rr_count": 578,
+    "sbp_count": 32,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "015-10173": {
+    "stay_id": 1502521,
+    "hr_count": 278,
+    "spo2_count": 278,
+    "rr_count": 278,
+    "sbp_count": 7,
+    "temp_count": 26,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "015-10459": {
+    "stay_id": 1496959,
+    "hr_count": 728,
+    "spo2_count": 167,
+    "rr_count": 614,
+    "sbp_count": 98,
+    "temp_count": 58,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10016": {
+    "stay_id": 1563797,
+    "hr_count": 155,
+    "spo2_count": 151,
+    "rr_count": 155,
+    "sbp_count": 53,
+    "temp_count": 26,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10096": {
+    "stay_id": 1568171,
+    "hr_count": 905,
+    "spo2_count": 898,
+    "rr_count": 905,
+    "sbp_count": 919,
+    "temp_count": 54,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10105": {
+    "stay_id": 1576992,
+    "hr_count": 147,
+    "spo2_count": 147,
+    "rr_count": 147,
+    "sbp_count": 14,
+    "temp_count": 60,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10137": {
+    "stay_id": 1571533,
+    "hr_count": 553,
+    "spo2_count": 473,
+    "rr_count": 553,
+    "sbp_count": 47,
+    "temp_count": 58,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10171": {
+    "stay_id": 1592412,
+    "hr_count": 246,
+    "spo2_count": 245,
+    "rr_count": 246,
+    "sbp_count": 277,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10215": {
+    "stay_id": 1588896,
+    "hr_count": 300,
+    "spo2_count": 301,
+    "rr_count": 300,
+    "sbp_count": 288,
+    "temp_count": 48,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10349": {
+    "stay_id": 1588606,
+    "hr_count": 233,
+    "spo2_count": 24,
+    "rr_count": 229,
+    "sbp_count": 9,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10642": {
+    "stay_id": 1559197,
+    "hr_count": 628,
+    "spo2_count": 336,
+    "rr_count": 628,
+    "sbp_count": 35,
+    "temp_count": 26,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10729": {
+    "stay_id": 1582472,
+    "hr_count": 326,
+    "spo2_count": 42,
+    "rr_count": 326,
+    "sbp_count": 8,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-10768": {
+    "stay_id": 1585807,
+    "hr_count": 425,
+    "spo2_count": 97,
+    "rr_count": 425,
+    "sbp_count": 38,
+    "temp_count": 40,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "016-11102": {
+    "stay_id": 1575432,
+    "hr_count": 482,
+    "spo2_count": 207,
+    "rr_count": 482,
+    "sbp_count": 78,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100002": {
+    "stay_id": 1635061,
+    "hr_count": 130,
+    "spo2_count": 127,
+    "rr_count": 130,
+    "sbp_count": 12,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-10007": {
+    "stay_id": 1674875,
+    "hr_count": 1143,
+    "spo2_count": 1142,
+    "rr_count": 1137,
+    "sbp_count": 94,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100192": {
+    "stay_id": 1652064,
+    "hr_count": 498,
+    "spo2_count": 498,
+    "rr_count": 498,
+    "sbp_count": 57,
+    "temp_count": 46,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100249": {
+    "stay_id": 1619343,
+    "hr_count": 413,
+    "spo2_count": 346,
+    "rr_count": 413,
+    "sbp_count": 54,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100250": {
+    "stay_id": 1620730,
+    "hr_count": 1431,
+    "spo2_count": 1429,
+    "rr_count": 1431,
+    "sbp_count": 1005,
+    "temp_count": 68,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100390": {
+    "stay_id": 1638510,
+    "hr_count": 257,
+    "spo2_count": 264,
+    "rr_count": 257,
+    "sbp_count": 12,
+    "temp_count": 24,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100582": {
+    "stay_id": 1607519,
+    "hr_count": 3077,
+    "spo2_count": 3011,
+    "rr_count": 2809,
+    "sbp_count": 483,
+    "temp_count": 104,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100762": {
+    "stay_id": 1644719,
+    "hr_count": 653,
+    "spo2_count": 445,
+    "rr_count": 653,
+    "sbp_count": 65,
+    "temp_count": 34,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-100920": {
+    "stay_id": 1660684,
+    "hr_count": 1098,
+    "spo2_count": 461,
+    "rr_count": 1098,
+    "sbp_count": 55,
+    "temp_count": 84,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-101383": {
+    "stay_id": 1629316,
+    "hr_count": 797,
+    "spo2_count": 764,
+    "rr_count": 792,
+    "sbp_count": 83,
+    "temp_count": 86,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-10189": {
+    "stay_id": 1658004,
+    "hr_count": 857,
+    "spo2_count": 857,
+    "rr_count": 857,
+    "sbp_count": 134,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-101912": {
+    "stay_id": 1651376,
+    "hr_count": 191,
+    "spo2_count": 85,
+    "rr_count": 191,
+    "sbp_count": 65,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-103572": {
+    "stay_id": 1713320,
+    "hr_count": 850,
+    "spo2_count": 850,
+    "rr_count": 850,
+    "sbp_count": 123,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-103978": {
+    "stay_id": 1682989,
+    "hr_count": 120,
+    "spo2_count": 120,
+    "rr_count": 120,
+    "sbp_count": 10,
+    "temp_count": 34,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-106271": {
+    "stay_id": 1695183,
+    "hr_count": 311,
+    "spo2_count": 294,
+    "rr_count": 309,
+    "sbp_count": 57,
+    "temp_count": 20,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "017-14919": {
+    "stay_id": 1687519,
+    "hr_count": 137,
+    "spo2_count": 132,
+    "rr_count": 137,
+    "sbp_count": 8,
+    "temp_count": 4,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100207": {
+    "stay_id": 1728151,
+    "hr_count": 380,
+    "spo2_count": 380,
+    "rr_count": 380,
+    "sbp_count": 55,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100370": {
+    "stay_id": 1717851,
+    "hr_count": 256,
+    "spo2_count": 120,
+    "rr_count": 203,
+    "sbp_count": 52,
+    "temp_count": 8,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100386": {
+    "stay_id": 1756529,
+    "hr_count": 20,
+    "spo2_count": 20,
+    "rr_count": 20,
+    "sbp_count": 4,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100776": {
+    "stay_id": 1836673,
+    "hr_count": 171,
+    "spo2_count": 64,
+    "rr_count": 171,
+    "sbp_count": 17,
+    "temp_count": 4,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100886": {
+    "stay_id": 1736753,
+    "hr_count": 1157,
+    "spo2_count": 1131,
+    "rr_count": 1092,
+    "sbp_count": 330,
+    "temp_count": 240,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100894": {
+    "stay_id": 1785133,
+    "hr_count": 500,
+    "spo2_count": 167,
+    "rr_count": 500,
+    "sbp_count": 24,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-100899": {
+    "stay_id": 1767854,
+    "hr_count": 209,
+    "spo2_count": 213,
+    "rr_count": 209,
+    "sbp_count": 18,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-1010": {
+    "stay_id": 1775226,
+    "hr_count": 239,
+    "spo2_count": 246,
+    "rr_count": 239,
+    "sbp_count": 47,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-101363": {
+    "stay_id": 1831437,
+    "hr_count": 353,
+    "spo2_count": 353,
+    "rr_count": 353,
+    "sbp_count": 348,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-101529": {
+    "stay_id": 1835141,
+    "hr_count": 230,
+    "spo2_count": 136,
+    "rr_count": 230,
+    "sbp_count": 22,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-102555": {
+    "stay_id": 1728137,
+    "hr_count": 2004,
+    "spo2_count": 1906,
+    "rr_count": 2004,
+    "sbp_count": 535,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-102566": {
+    "stay_id": 1851750,
+    "hr_count": 222,
+    "spo2_count": 218,
+    "rr_count": 194,
+    "sbp_count": 61,
+    "temp_count": 4,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-105861": {
+    "stay_id": 1772777,
+    "hr_count": 109,
+    "spo2_count": 105,
+    "rr_count": 109,
+    "sbp_count": 30,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "018-10885": {
+    "stay_id": 1794248,
+    "hr_count": 5585,
+    "spo2_count": 5595,
+    "rr_count": 5524,
+    "sbp_count": 1107,
+    "temp_count": 66,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100245": {
+    "stay_id": 2141699,
+    "hr_count": 479,
+    "spo2_count": 474,
+    "rr_count": 478,
+    "sbp_count": 83,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100338": {
+    "stay_id": 2069695,
+    "hr_count": 568,
+    "spo2_count": 568,
+    "rr_count": 563,
+    "sbp_count": 198,
+    "temp_count": 108,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100369": {
+    "stay_id": 2251446,
+    "hr_count": 310,
+    "spo2_count": 310,
+    "rr_count": 310,
+    "sbp_count": 31,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100514": {
+    "stay_id": 2095881,
+    "hr_count": 225,
+    "spo2_count": 225,
+    "rr_count": 225,
+    "sbp_count": 49,
+    "temp_count": 36,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100731": {
+    "stay_id": 2097882,
+    "hr_count": 197,
+    "spo2_count": 197,
+    "rr_count": 197,
+    "sbp_count": 197,
+    "temp_count": 54,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100801": {
+    "stay_id": 2075278,
+    "hr_count": 206,
+    "spo2_count": 206,
+    "rr_count": 206,
+    "sbp_count": 69,
+    "temp_count": 50,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-100877": {
+    "stay_id": 2119136,
+    "hr_count": 364,
+    "spo2_count": 363,
+    "rr_count": 363,
+    "sbp_count": 93,
+    "temp_count": 66,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-101289": {
+    "stay_id": 2215881,
+    "hr_count": 248,
+    "spo2_count": 244,
+    "rr_count": 248,
+    "sbp_count": 33,
+    "temp_count": 16,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-10129": {
+    "stay_id": 2154422,
+    "hr_count": 2836,
+    "spo2_count": 2823,
+    "rr_count": 2677,
+    "sbp_count": 847,
+    "temp_count": 248,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-102127": {
+    "stay_id": 1968908,
+    "hr_count": 647,
+    "spo2_count": 629,
+    "rr_count": 647,
+    "sbp_count": 436,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-105606": {
+    "stay_id": 2188696,
+    "hr_count": 178,
+    "spo2_count": 154,
+    "rr_count": 167,
+    "sbp_count": 23,
+    "temp_count": 108,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "021-114929": {
+    "stay_id": 2208455,
+    "hr_count": 1443,
+    "spo2_count": 778,
+    "rr_count": 1410,
+    "sbp_count": 194,
+    "temp_count": 58,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-100052": {
+    "stay_id": 2442461,
+    "hr_count": 387,
+    "spo2_count": 350,
+    "rr_count": 388,
+    "sbp_count": 55,
+    "temp_count": 76,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-100243": {
+    "stay_id": 2492731,
+    "hr_count": 793,
+    "spo2_count": 763,
+    "rr_count": 793,
+    "sbp_count": 71,
+    "temp_count": 34,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-100254": {
+    "stay_id": 2523738,
+    "hr_count": 262,
+    "spo2_count": 262,
+    "rr_count": 261,
+    "sbp_count": 88,
+    "temp_count": 92,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-100435": {
+    "stay_id": 2473922,
+    "hr_count": 810,
+    "spo2_count": 797,
+    "rr_count": 810,
+    "sbp_count": 280,
+    "temp_count": 78,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-100772": {
+    "stay_id": 2428517,
+    "hr_count": 843,
+    "spo2_count": 845,
+    "rr_count": 837,
+    "sbp_count": 94,
+    "temp_count": 50,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-102633": {
+    "stay_id": 2441710,
+    "hr_count": 379,
+    "spo2_count": 378,
+    "rr_count": 379,
+    "sbp_count": 284,
+    "temp_count": 48,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-103049": {
+    "stay_id": 2488182,
+    "hr_count": 750,
+    "spo2_count": 751,
+    "rr_count": 704,
+    "sbp_count": 159,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "022-104422": {
+    "stay_id": 2308573,
+    "hr_count": 397,
+    "spo2_count": 366,
+    "rr_count": 397,
+    "sbp_count": 15,
+    "temp_count": 36,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "024-12045": {
+    "stay_id": 2571798,
+    "hr_count": 3391,
+    "spo2_count": 3268,
+    "rr_count": 1170,
+    "sbp_count": 2833,
+    "temp_count": 2132,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "024-12241": {
+    "stay_id": 2559053,
+    "hr_count": 2690,
+    "spo2_count": 2648,
+    "rr_count": 2697,
+    "sbp_count": 2710,
+    "temp_count": 3216,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10243": {
+    "stay_id": 2627270,
+    "hr_count": 651,
+    "spo2_count": 650,
+    "rr_count": 650,
+    "sbp_count": 70,
+    "temp_count": 12,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10267": {
+    "stay_id": 2611778,
+    "hr_count": 9,
+    "spo2_count": 9,
+    "rr_count": 9,
+    "sbp_count": 3,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10334": {
+    "stay_id": 2627574,
+    "hr_count": 868,
+    "spo2_count": 866,
+    "rr_count": 867,
+    "sbp_count": 76,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10428": {
+    "stay_id": 2595334,
+    "hr_count": 1476,
+    "spo2_count": 1445,
+    "rr_count": 1476,
+    "sbp_count": 336,
+    "temp_count": 22,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10477": {
+    "stay_id": 2618178,
+    "hr_count": 294,
+    "spo2_count": 289,
+    "rr_count": 294,
+    "sbp_count": 67,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10481": {
+    "stay_id": 2585711,
+    "hr_count": 454,
+    "spo2_count": 453,
+    "rr_count": 454,
+    "sbp_count": 231,
+    "temp_count": 8,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10725": {
+    "stay_id": 2621632,
+    "hr_count": 515,
+    "spo2_count": 502,
+    "rr_count": 515,
+    "sbp_count": 165,
+    "temp_count": 507,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-10875": {
+    "stay_id": 2603071,
+    "hr_count": 103,
+    "spo2_count": 103,
+    "rr_count": 103,
+    "sbp_count": 21,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-133": {
+    "stay_id": 2603273,
+    "hr_count": 235,
+    "spo2_count": 234,
+    "rr_count": 235,
+    "sbp_count": 20,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "025-13531": {
+    "stay_id": 2602775,
+    "hr_count": 444,
+    "spo2_count": 219,
+    "rr_count": 436,
+    "sbp_count": 37,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-100376": {
+    "stay_id": 2876381,
+    "hr_count": 1367,
+    "spo2_count": 1333,
+    "rr_count": 1367,
+    "sbp_count": 346,
+    "temp_count": 1250,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-100597": {
+    "stay_id": 2760099,
+    "hr_count": 544,
+    "spo2_count": 544,
+    "rr_count": 544,
+    "sbp_count": 65,
+    "temp_count": 66,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-100745": {
+    "stay_id": 2689919,
+    "hr_count": 703,
+    "spo2_count": 310,
+    "rr_count": 606,
+    "sbp_count": 115,
+    "temp_count": 106,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-100798": {
+    "stay_id": 2838819,
+    "hr_count": 663,
+    "spo2_count": 664,
+    "rr_count": 656,
+    "sbp_count": 179,
+    "temp_count": 196,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-100876": {
+    "stay_id": 2774779,
+    "hr_count": 1917,
+    "spo2_count": 1297,
+    "rr_count": 1917,
+    "sbp_count": 305,
+    "temp_count": 116,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-100955": {
+    "stay_id": 2861097,
+    "hr_count": 957,
+    "spo2_count": 948,
+    "rr_count": 957,
+    "sbp_count": 108,
+    "temp_count": 32,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-101128": {
+    "stay_id": 2893929,
+    "hr_count": 876,
+    "spo2_count": 873,
+    "rr_count": 871,
+    "sbp_count": 248,
+    "temp_count": 66,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-101412": {
+    "stay_id": 2819402,
+    "hr_count": 544,
+    "spo2_count": 465,
+    "rr_count": 524,
+    "sbp_count": 102,
+    "temp_count": 40,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-101546": {
+    "stay_id": 2745039,
+    "hr_count": 1537,
+    "spo2_count": 1095,
+    "rr_count": 1529,
+    "sbp_count": 554,
+    "temp_count": 237,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-101944": {
+    "stay_id": 2676990,
+    "hr_count": 615,
+    "spo2_count": 547,
+    "rr_count": 604,
+    "sbp_count": 497,
+    "temp_count": 505,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-102287": {
+    "stay_id": 2712662,
+    "hr_count": 553,
+    "spo2_count": 505,
+    "rr_count": 551,
+    "sbp_count": 50,
+    "temp_count": 32,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-10242": {
+    "stay_id": 2804045,
+    "hr_count": 397,
+    "spo2_count": 397,
+    "rr_count": 397,
+    "sbp_count": 223,
+    "temp_count": 28,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-102699": {
+    "stay_id": 2685325,
+    "hr_count": 246,
+    "spo2_count": 246,
+    "rr_count": 246,
+    "sbp_count": 63,
+    "temp_count": 56,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-102868": {
+    "stay_id": 2684922,
+    "hr_count": 563,
+    "spo2_count": 499,
+    "rr_count": 538,
+    "sbp_count": 79,
+    "temp_count": 54,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-103246": {
+    "stay_id": 2808515,
+    "hr_count": 8,
+    "spo2_count": 8,
+    "rr_count": 8,
+    "sbp_count": 3,
+    "temp_count": 66,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-103257": {
+    "stay_id": 2792350,
+    "hr_count": 816,
+    "spo2_count": 804,
+    "rr_count": 816,
+    "sbp_count": 67,
+    "temp_count": 204,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-10346": {
+    "stay_id": 2870678,
+    "hr_count": 302,
+    "spo2_count": 270,
+    "rr_count": 297,
+    "sbp_count": 45,
+    "temp_count": 42,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-103713": {
+    "stay_id": 2727377,
+    "hr_count": 515,
+    "spo2_count": 515,
+    "rr_count": 515,
+    "sbp_count": 112,
+    "temp_count": 715,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-104072": {
+    "stay_id": 2887358,
+    "hr_count": 660,
+    "spo2_count": 658,
+    "rr_count": 660,
+    "sbp_count": 137,
+    "temp_count": 878,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-104610": {
+    "stay_id": 2832466,
+    "hr_count": 299,
+    "spo2_count": 299,
+    "rr_count": 299,
+    "sbp_count": 79,
+    "temp_count": 44,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "027-109799": {
+    "stay_id": 2766005,
+    "hr_count": 65,
+    "spo2_count": 55,
+    "rr_count": 65,
+    "sbp_count": 70,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "028-1004": {
+    "stay_id": 2958289,
+    "hr_count": 612,
+    "spo2_count": 436,
+    "rr_count": 612,
+    "sbp_count": 50,
+    "temp_count": 48,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "028-10115": {
+    "stay_id": 2940544,
+    "hr_count": 563,
+    "spo2_count": 561,
+    "rr_count": 500,
+    "sbp_count": 203,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "028-10243": {
+    "stay_id": 2983640,
+    "hr_count": 409,
+    "spo2_count": 382,
+    "rr_count": 409,
+    "sbp_count": 35,
+    "temp_count": 64,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "028-1025": {
+    "stay_id": 2934903,
+    "hr_count": 235,
+    "spo2_count": 190,
+    "rr_count": 212,
+    "sbp_count": 68,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "028-10345": {
+    "stay_id": 2906478,
+    "hr_count": 1512,
+    "spo2_count": 1390,
+    "rr_count": 1502,
+    "sbp_count": 460,
+    "temp_count": 72,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "028-10677": {
+    "stay_id": 2960916,
+    "hr_count": 202,
+    "spo2_count": 194,
+    "rr_count": 202,
+    "sbp_count": 26,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "029-10010": {
+    "stay_id": 3023263,
+    "hr_count": 468,
+    "spo2_count": 456,
+    "rr_count": 444,
+    "sbp_count": 71,
+    "temp_count": 22,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "029-10071": {
+    "stay_id": 3031944,
+    "hr_count": 321,
+    "spo2_count": 319,
+    "rr_count": 321,
+    "sbp_count": 305,
+    "temp_count": 88,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "030-10053": {
+    "stay_id": 3057805,
+    "hr_count": 580,
+    "spo2_count": 570,
+    "rr_count": 580,
+    "sbp_count": 122,
+    "temp_count": 26,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "030-11450": {
+    "stay_id": 3099740,
+    "hr_count": 113,
+    "spo2_count": 51,
+    "rr_count": 113,
+    "sbp_count": 19,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "030-12014": {
+    "stay_id": 3072205,
+    "hr_count": 267,
+    "spo2_count": 258,
+    "rr_count": 247,
+    "sbp_count": 26,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "030-12693": {
+    "stay_id": 3124638,
+    "hr_count": 796,
+    "spo2_count": 326,
+    "rr_count": 137,
+    "sbp_count": 172,
+    "temp_count": 40,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "030-1503": {
+    "stay_id": 3096492,
+    "hr_count": 901,
+    "spo2_count": 853,
+    "rr_count": 901,
+    "sbp_count": 75,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10000": {
+    "stay_id": 3157896,
+    "hr_count": 332,
+    "spo2_count": 300,
+    "rr_count": 324,
+    "sbp_count": 88,
+    "temp_count": 8,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-1002": {
+    "stay_id": 3144745,
+    "hr_count": 501,
+    "spo2_count": 269,
+    "rr_count": 523,
+    "sbp_count": 59,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10077": {
+    "stay_id": 3150622,
+    "hr_count": 48,
+    "spo2_count": 37,
+    "rr_count": 48,
+    "sbp_count": 50,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10130": {
+    "stay_id": 3153894,
+    "hr_count": 1947,
+    "spo2_count": 1908,
+    "rr_count": 1945,
+    "sbp_count": 1439,
+    "temp_count": 1234,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10245": {
+    "stay_id": 3156990,
+    "hr_count": 180,
+    "spo2_count": 180,
+    "rr_count": 180,
+    "sbp_count": 38,
+    "temp_count": 4,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-1029": {
+    "stay_id": 3144615,
+    "hr_count": 136,
+    "spo2_count": 2,
+    "rr_count": 136,
+    "sbp_count": 31,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10300": {
+    "stay_id": 3158680,
+    "hr_count": 899,
+    "spo2_count": 892,
+    "rr_count": 831,
+    "sbp_count": 74,
+    "temp_count": 4,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10407": {
+    "stay_id": 3152607,
+    "hr_count": 2281,
+    "spo2_count": 2279,
+    "rr_count": 2281,
+    "sbp_count": 451,
+    "temp_count": 76,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10541": {
+    "stay_id": 3148997,
+    "hr_count": 1614,
+    "spo2_count": 1104,
+    "rr_count": 1581,
+    "sbp_count": 194,
+    "temp_count": 2,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-10609": {
+    "stay_id": 3151670,
+    "hr_count": 614,
+    "spo2_count": 597,
+    "rr_count": 606,
+    "sbp_count": 52,
+    "temp_count": 16,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "031-12135": {
+    "stay_id": 3138092,
+    "hr_count": 1169,
+    "spo2_count": 982,
+    "rr_count": 1169,
+    "sbp_count": 365,
+    "temp_count": 6,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "032-10034": {
+    "stay_id": 3173599,
+    "hr_count": 116,
+    "spo2_count": 116,
+    "rr_count": 114,
+    "sbp_count": 20,
+    "temp_count": 18,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "032-10123": {
+    "stay_id": 3199449,
+    "hr_count": 1947,
+    "spo2_count": 1595,
+    "rr_count": 1947,
+    "sbp_count": 1950,
+    "temp_count": 80,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "033-1001": {
+    "stay_id": 3214193,
+    "hr_count": 378,
+    "spo2_count": 276,
+    "rr_count": 378,
+    "sbp_count": 26,
+    "temp_count": 30,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "033-10145": {
+    "stay_id": 3205101,
+    "hr_count": 1105,
+    "spo2_count": 1075,
+    "rr_count": 1105,
+    "sbp_count": 169,
+    "temp_count": 62,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "033-10248": {
+    "stay_id": 3211257,
+    "hr_count": 418,
+    "spo2_count": 416,
+    "rr_count": 418,
+    "sbp_count": 41,
+    "temp_count": 58,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "033-1099": {
+    "stay_id": 3238816,
+    "hr_count": 703,
+    "spo2_count": 456,
+    "rr_count": 685,
+    "sbp_count": 15,
+    "temp_count": 38,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "035-10025": {
+    "stay_id": 3341035,
+    "hr_count": 218,
+    "spo2_count": 212,
+    "rr_count": 27,
+    "sbp_count": 38,
+    "temp_count": 10,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "035-1003": {
+    "stay_id": 3343295,
+    "hr_count": 439,
+    "spo2_count": 343,
+    "rr_count": 436,
+    "sbp_count": 26,
+    "temp_count": 14,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "035-10043": {
+    "stay_id": 3346866,
+    "hr_count": 593,
+    "spo2_count": 596,
+    "rr_count": 591,
+    "sbp_count": 47,
+    "temp_count": 60,
+    "label": 0,
+    "class": "non_pneumonia"
+  },
+  "035-10350": {
+    "stay_id": 3335380,
+    "hr_count": 97,
+    "spo2_count": 91,
+    "rr_count": 97,
+    "sbp_count": 10,
+    "temp_count": 56,
+    "label": 0,
+    "class": "non_pneumonia"
+  }
+}

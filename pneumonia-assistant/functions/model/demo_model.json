@@ -1,0 +1,6 @@
+{
+  "modelVersion": "demo-fixture-v1",
+  "isDemo": true,
+  "description": "Explicitly selected UI fixtures. No classifier, probability, or clinical thresholds.",
+  "scenarios": ["routine", "review", "priority"]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676066145660",
+    "project_id": "pneumonia-assistant-fyp",
+    "storage_bucket": "pneumonia-assistant-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676066145660:android:3269aea36c60a61a8460f9",
+        "android_client_info": {
+          "package_name": "com.fyp.pneumonia_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVAMMlHuouX0VsmQsiqkX6H_boC3br-7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

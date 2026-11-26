@@ -1,0 +1,35 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper function for user ownership
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+
+    // Patient profile and nested data (assessments, labs, readings)
+    match /patients/{uid} {
+      allow read, write: if isOwner(uid);
+      
+      match /assessments/{assessmentId} {
+        allow read, write: if isOwner(uid);
+      }
+      
+      match /labs/{labId} {
+        allow read, write: if isOwner(uid);
+      }
+      
+      match /readings/{readingId} {
+        allow read, write: if isOwner(uid);
+      }
+    }
+
+    // Legacy /users path compatibility
+    match /users/{uid} {
+      allow read, write: if isOwner(uid);
+      match /{document=**} {
+        allow read, write: if isOwner(uid);
+      }
+    }
+  }
+}
+

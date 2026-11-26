@@ -1,0 +1,47 @@
+# ==============================================================================
+# Final Year Project (FYP) Root .gitignore
+# Prevents large virtual environments, build artifacts, and files > 100MB from GitHub
+# ==============================================================================
+
+# Python & Virtual Environments
+**/__pycache__/
+*.py[cod]
+*$py.class
+**/.venv/
+**/venv/
+**/env/
+**/.pytest_cache/
+**/.ipynb_checkpoints/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Flutter & Dart Build Artifacts
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/pubspec.lock.bak
+
+# Android Build & Local Config
+android/**/.gradle/
+android/**/local.properties
+android/**/GeneratedPluginRegistrant.java
+android/**/build/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+**/.vscode/
+**/.idea/
+*.swp
+*.swo
+
+# Large Binary & Data Files (>100MB GitHub Push Rejection Limit)
+*.zip
+*.tar.gz
+*.iso
+vitals_raw.csv
+vitals_progress.csv
+*.so
+*.dylib

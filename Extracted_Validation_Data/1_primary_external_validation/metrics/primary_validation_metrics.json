@@ -1,0 +1,28 @@
+{
+  "experiment_name": "Primary External Validation",
+  "model_name": "Stage 2 v2 VotingClassifier (LogisticRegression + CatBoost)",
+  "model_path": "/home/tuaseen/Downloads/pneumonia-assistant-main/pneumonia-assistant/models/stage2_v2.joblib",
+  "dataset": "eICU Collaborative Research Database Demo v2.0.1",
+  "total_samples": 460,
+  "pneumonia_cases": 230,
+  "control_cases": 230,
+  "observation_window": "Entire ICU Stay (mean 108 hours)",
+  "respiratory_distress_treatment": "Original Vital Surrogate Heuristic (95.65% saturation)",
+  "decision_threshold": 0.53,
+  "roc_auc": 0.7273,
+  "pr_auc": 0.6977,
+  "brier_score": 0.2779,
+  "sensitivity": 0.9435,
+  "specificity": 0.1783,
+  "balanced_accuracy": 0.5609,
+  "precision": 0.5345,
+  "npv": 0.7593,
+  "f1_score": 0.6824,
+  "accuracy": 0.5609,
+  "confusion_matrix": {
+    "true_positives": 217,
+    "true_negatives": 41,
+    "false_positives": 189,
+    "false_negatives": 13
+  }
+}
