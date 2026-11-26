@@ -1,4 +1,4 @@
-# IoT-Integrated AI System for Pneumonia Risk Prediction Using Temporal Physiological Monitoring and Machine Learning
+# Machine Learning-Based Pneumonia Risk Prediction Using Temporal Physiological Data
 
 Final Year Project (FYP) repository containing the complete end-to-end clinical machine learning pipeline, REST inference backend, and cross-platform Flutter clinical companion.
 
